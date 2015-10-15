@@ -1,0 +1,4764 @@
+f
+female,女,foot,フィート,forte,フォルテ
+f-number
+f-number,F数,Fナンバー,(レンズの明るさの表示,焦点距離を口径で割ったもの)
+f.
+feminine,女性の,franc,フラン
+fable
+寓話
+fabled
+物語[伝説]に名高い,伝説的な,作り話の,虚構の,架空の,物語的,作り話の様な,うそっぽい
+fabric
+構造,建物,布,繊維,組織,骨組み,織物,布地
+fabric filter
+布充填材
+fabricate
+組み立てる,作る
+fabrication
+作り話,でっち上げ,組立,構成
+fabricator
+組立加工業者
+fabrics
+織物
+fabulous
+架空の,信じられないような
+fabulous diamond
+ものすごいダイヤモンド
+fabulously
+信じられないほど
+facade
+《仏語》建物の正面,建物正面の壁面,(比喩的に)前面,外見(face),見せかけ,外観,正面,一面,見かけ,ふり
+face
+1.顔,顔色,しかめ面,面子,額面,化粧,2.～の方を向く,危険が～の身に迫る,に面する,顔,の方を向く,顔つき,威圧する,向く
+face about
+意見を変える
+face as long as a fiddle
+(a ～)ひどく暗い･陰欝な顔
+face card
+(トランプ)絵札
+face down
+やっつける
+face lined by age
+老齢でしわの寄った顔
+face off
+対決する
+face out
+に直面する,敢然と立ち向かう
+face piece
+覆面部
+face powder
+おしろい
+face the music
+罰を受ける,誤りを認める,自分の行いの結果を甘受する
+face to face
+向い合って
+face up
+見かけをよくする
+face up to ~
+～を現実視する,直面する,～に敢然と立ち向かう
+face value
+額面価格
+face with deep lines
+しわの深い顔
+face-centered cubic
+面心立方
+face-centered lattice
+面心格子
+face-fungus
+ひげ
+face-lift
+モデルチェンジする,美容整形,改装
+face-lifting
+美容整形,改装
+face-off
+対決(confrontation),(アイスホッケーの)試合開始･再開
+face-saver
+メンツを保つもの
+face-saving
+メンツを保つ,メンツを保つこと,めんつ(顔)を立てる
+face-to-face
+面と向かっての,顔を突き合わせた
+facecloth
+死体の顔布,手ぬぐい
+faced with ~, be
+～に直面している
+faceless
+顔のない
+facelift
+1.美容整形,2.(建物などの)改装,化粧直し
+facer
+(英話)思いがけない大難,突然の窮地
+facet
+(心･問題などの)面,様相,(多面体･特に宝石の)小面,彫面,切子面,刻面,小平面
+facetious
+冗談の,滑稽な,ひょうきんな,愉快な
+facial
+美顔術,顔の,顔に用いる
+facile
+愛想のよい,手軽な,容易な,骨の折れない,たやすく得られる
+facilitate
+容易にする,促進する,楽にする
+facilitate a conversation
+話が途切れないようにする
+facilitation
+容易にすること
+facilitator
+容易にする人･もの,促進する人･もの
+facilities
+宿泊施設,施設,観光施設
+facility
+たやすさ,容易,設備,容易さ,腕前,施設,能力
+facing
+上塗り,向く
+facsimile
+ファクシミリ(で送る),複写(する),複製,模写,ファックス;略:FAX
+fact
+真実,事実,現実,実際,真相,(法律)申立て,犯行
+fact of life
+(a ～)紛れもない事実,否定することのできない事実 / OPEC is discovering a fact of life that evan a cartel must face.
+fact sheet
+データ表
+fact that ~
+(the ～)～という事実(thatはthe factとの同格節)
+fact-finding
+調査の
+fact-finding mission
+実情調査の使命
+faction
+派閥,党派,党争,実話小説,派閥争い
+factious
+党派的な,党派心の強い,党派本位の
+factitious
+人為的な,不自然な,作為的な
+factitive
+【文法】作為的な
+factitive verb
+【文法】使役動詞,作為動詞,叙述動詞
+factor
+仲買人,因子,要因,要素,原因,因数
+factor analysis
+因子分析
+factor cost
+【経済】ファクターコスト,要素費用 / Japanese producers have been successful in the West where two additional factors have been present - factor cost advantage and a labor productivity advantage. -Kaisha
+factoring
+【商業】ファクタリング,債券買取業
+factorize
+因数分解する/できる
+factory
+海外代理店,工場,製作所
+factory automation
+工場の自動化;略:FA
+factory cost
+製造原価
+factory delivery
+(工場)出荷
+factory dispensary
+工場内の診療所
+factory manager
+工場長
+factotum
+雑役係
+facts of life
+(the ～)性知識,人生の実体
+factual
+事実上の,事実の,実際の,事実に基づく,事実にもとづく
+faculty
+能力,才能,教授団,機能,学部,学部教員
+fad
+一時的流行,気まぐれ,気紛れ
+fade
+衰えさせる,さめる,しだいに消えていく,消えうせる,衰える
+fade away
+だんだんと姿を消す
+fade-in
+フェードイン;略:FI
+fade-out
+フェードアウト;略:FO
+fag
+1.《俗語》男性同性愛者,ゲイ,ホモ,2.あくせく働く,(俗語)男性同性愛者,あくせく働く
+faggot
+1.《俗語》男性同性愛者,ゲイ,(俗語)ホモ,同性愛の男,女性的な男,いやな女,2.(たきぎ･鉄棒の)束,束ねる,(たきぎ･鉄棒の)束
+fahrenheit
+華氏温度計
+fail
+人を失望させる,失敗する,しくじる,不足する,欠乏する,期待を裏切る
+fail in ~
+～に失敗する
+fail to ~
+～するのを怠る,～しない
+fail-safe
+1.【電気電子】フェイルセーフの,2.(故障に備えて)二重安全装置を装備した
+failed fuel detection
+原子力破損燃料検出;略:FFD
+failing
+に失敗する
+faille
+《仏語》ファイユ(軽いつや消しのうね織り生地)
+failure
+不履行,落第した人,失敗した人,失敗,不成功,怠慢,不足,減退
+fain
+喜んで,快く
+faint
+気絶する,卒倒する,弱々しい,ぼんやりした,弱い,かすかな,淡い,気の弱い,気絶(する),気がしない
+faintly
+かすかに,弱々しく
+fair
+偏見のない,公正な,合法的な,有望な,見込みが十分にある,平均の,きれいな,まっすぐ,順調に,晴れの,【気象】晴れ,快晴
+fair as a lily
+ゆりのように白い,純潔で
+fair as a rose
+薔薇の花のように美人で,きわめて美しい
+fair average quality
+【経済】中等品,標準品;略:FAQ
+fair game
+(攻撃･嘲笑などの)格好の的 / Any German in the town became fair game. A mother wheeling her child in a carriage accross a bridge was clubbed to death; both she and the child were tossed over the railing into the Elbe River. -Newsweek '95
+fair market value
+【経済】公正市場価格(市場価格に適正利益を上乗せしたもの);略:FMV
+fair price
+適正価格
+fair sex
+(the ～)女性
+fair shake
+(a ～)公平な扱い
+fair sky
+【気象】晴天
+fair to middling
+(健康状態が)あまりいいこともないし,あまり悪いこともない,まあまあの
+fair weather
+【気象】晴れ,快晴
+fair wind
+(a ～)順風
+fair-weather friend
+晴の日だけの友
+fairer sex
+(the ～)女性
+fairest of her sex
+(the ～)絶世の美人
+fairly
+1.(形容詞,副詞を修飾して)かなり,相当,かなり,完全に,全く,相当に◆ratherと異なり,否定的な意味合いをもたない,2.公平に,正しく,相当に,公平に
+fairly content with its maturity and performance, be
+その完成度と性能に大いに満足する
+fairy
+同性愛の男性(male homosexual),妖精,おかま
+fairy dust
+《俗語》コカイン
+fairy tale
+童話
+fait accompli
+《仏語》既成事実
+faith
+信頼,信念･信頼,信用,信仰,確信,信じること,信念,教義,約束
+faithful
+1.義務を遂行する,2.忠実な,誠実な,信心深い,信頼できる,貞節な,(夫･妻を)裏切らない,浮気をしない,3.(事実などに)忠実な,正確な,4.[the ～] 忠実な信者[支持者],義務を遂行する,忠実な,事実に忠実な,律儀な
+faithful as a dog
+とても誠実な
+faithful to historical facts
+史実に忠実である
+faithful to one's boss
+上司に対して忠実である
+faithful to the original
+原文[原作]に忠実である
+faithfully
+忠実に,誠実に,堅く,信心深く,神妙に,正確に
+faithfulness
+忠実,誠実,貞節,信心深さ
+fai¨ence
+《仏語》ファイヤンス焼(高級彩色陶器)
+fake
+1.～のふりをする,仮病を使う,ねつ造する,だます,2.ごまかし,いかさま
+fake bake
+a tanning salon(日焼けをするためのサロン)
+fake picture
+偽物の絵
+fake smile
+愛想笑い
+faker
+ペテン師,詐欺師,(いか物を売る)行商人,てき屋
+fakir
+行者,托鉢僧
+falcon
+【鳥】タカ,(タカ狩り用の)ハヤブサ
+falconer
+タカ匠
+falconry
+タカ狩り
+falderal
+安ピカ物,無用の物,くだらぬ言行
+fall
+【気象】降る,下がる,落ちる,倒れる,減少,落下,撃墜,降雨･降雪量,秋
+fall +n
+1.減少,落下,撃墜,2.秋(autumn),3降雨[降雪]量
+fall +v
+(fell, fallen, falling) 落ちる,落下する,(雨･雪などが)降る,(質･数量が)減少する
+fall a prey to ~
+～のえじきになる
+fall a victim to ~
+の犠牲になる
+fall among philistines
+ひどい目にあう
+fall apart
+(物が)粉々(ばらばら)になる,(旧体･関係などが)くずれる
+fall asleep
+寝入る
+fall back on ~
+(まさかの時に)頼る
+fall back upon
+に頼る
+fall behind (~)
+(競争相手に対して)遅れをとる,遅れる / Yet the risk of falling behind a competitor is regarded by most kaisha as a far greater risk than the risk that profits will be depressed. 利益が圧迫されるより,競争相手に遅れをとる方がはるかに重大なリスクである｡ -Kaisha
+fall between [through] the cracks
+無視される,見逃される,忘れられる
+fall between the cracks
+無視される,見逃される,忘れられる
+fall by the wayside
+(遠回しに)途中で挫折する,落後する
+fall down
+崩れ落ちる
+fall flat
+失敗に終わる
+fall for a lemon
+欠陥商品をつかまされる
+fall for ~
+惚れ込む,夢中になる,だまされる,いっぱいくわされる,～に恋する,fall in love with
+fall guy
+《米口》身代り,騙されやすい人
+fall head over heels in love with someone
+～にのぼせあがる
+fall in and out of love quickly
+熱しやすく冷めやすい
+fall in drops
+しずくとなって落ちる
+fall in line
+列につく,行動を共にする
+fall in line with ~
+～と一致する
+fall in love
+恋に落ちる
+fall in love (with ~)
+(～と)恋に落ちる,(～が)気に入って,(～と)恋をする,(～に)惚れる
+fall in prices
+(a ～)値下がり,物価の下落
+fall into line
+～と一列に並ぶ,他と行動を共にする
+fall into place
+(出来事,話などが)(全体の意味が理解できるように)ぴったり収まる,つじつまが合う
+fall into sentimentality
+感傷に流される
+fall into ~
+～に落ちる,～し始める,～に分かれる
+fall of leaves
+(a ～)落葉
+fall off the wagon
+ついつい禁酒を破ってしまう
+fall on deaf ears
+聞き捨てにする,無視される
+fall on one's knees
+ひざまずく
+fall on ~
+に当る
+fall on ~ knees
+ひざまずく
+fall out
+喧嘩する,仲たがいする,けんかする
+fall out of love
+失恋する
+fall out of love (with ~)
+(～に)失恋する
+fall passionately in love
+熱烈な恋をする
+fall prey on ~
+～の餌食になる
+fall short
+目標とするポイントに達しない
+fall short of ~
+=come short of ~,(標準･期待などに)達しない,～に不十分である
+fall sick
+病気にかかる
+fall sun
+(the ～)秋の陽
+fall through
+駄目になる
+fall to one's death from ~
+～から落ちて死亡する
+fall to ~
+～をし始める,～に取り掛かる
+fall unconscious
+意識を失う
+fall victim to ~
+～の餌食になる,～の犠牲になる / He fell victim to the gas himself.
+fallacious
+誤りのある,誤った,虚偽の,人を惑わす,あてにならない
+fallacy
+きべん,誤信,謬見,虚偽
+fallen
+fallの過去分詞形(fall, fell, fallen)
+fallible
+誤りに陥りがちな,誤りを免れない
+falling debris
+(空中で爆破され)落ちて来るロケットの破片
+falling demand
+需要の低下 / Markets may not expand enough to absorb the added capacity, and falling demand can mean continued investment will not be recoverable; profits would  suffer. -Kaisha
+falling film evaporator
+流下薄膜型蒸発缶
+falling star
+流星,流れ星
+fallout
+1.死の灰,放射性降下物,2.副産物,2.(仕事などの)放棄者,放棄者数,脱落者の,放射性落下物
+fallow
+1.(土地)を休ませる,2.休閑(地),耕したがまだ作付していない土地,3.作付けしてない,休閑中の,未開墾の
+falls
+滝
+false
+正しくない,仮の,誤った,誤っている,嘘を言う,虚偽の,不誠実な,欺瞞的な,偽りの,過誤の,偽の,賢くない,誠実でない,不正に
+false ceiling
+吊天井
+false claims
+虚偽の宣伝文句
+false promise of marriage
+(a ～)結婚詐欺
+falsehood
+うそ
+falsetto
+裏声
+falsification
+偽造,変造,反証,文書変造,論破
+falsified
+偽造した
+falsify
+反証をあげる,偽る
+falter
+よろめく,口ごもって言う
+faltering economy
+たじろぐ経済
+fam-tour
+慣れ親しんでもらうために社内などを案内すること(familiarization tour)
+fame
+名声,高名
+famed
+名高い(famous)
+familia
+《西》ファミリア : 家族,マツダの車名
+familiar
+よく知られている,聞き慣れた,見慣れた,普通の,精通している,気楽な,親しい,なじみの,なれなれしい
+familiar figure
+よく知られている人物
+familiar with ~, be
+～をよく知っている,～に精通している
+familiarity
+親密,砕けた態度,親しみ,精通
+familiarization program
+習熟プログラム
+familiarly
+親しく,なれなれしく
+family
+家族,同類,一族,科,子供たち
+family allowance
+家族手当
+family budget
+家計
+family dissension
+家庭内不和,内輪もめ
+family doctor
+かかりつけの医者,ホームドクター
+family history
+家族歴
+family man
+マイホームパパ
+family physician
+かかりつけの医者
+family plan fare
+家族割引運賃
+family register
+戸籍謄本
+family training
+職場ぐるみ訓練
+family tree
+家系図
+family way
+妊娠中
+famine
+飢きん,凶作,飢饉,欠乏
+famous
+有名な,素晴らしい,著しい
+famous for ~, be
+～で有名である
+fan
+扇風機,ファン
+fan blades and the throat
+ファンのブレードとスロート
+fan the air
+《野球俗》三振する
+fan the embers of discontent
+不満のくすぶりをあおる
+fanatic
+(政治,宗教などの)狂信者,熱狂的信者,マニア
+fanatical
+狂信的な
+fanaticism
+狂信(的な行為),熱狂
+fancied
+想像上の,架空の,気に入った
+fancier
+(花･鳥･犬などの)愛好家,(商業的)飼育者
+fanciful
+想像力に富む,気まぐれな,空想的な,非現実的な
+fancy
+空想する,好み,うぬぼれる,好む,思う,装飾的な
+fancy cake
+デコレーションケーキ(和製英語)のこと
+fancy piece of paper
+(ここでは)卒業証書
+fandango
+ファンダンゴ(スペインの陽気な舞踏)
+fang
+牙,犬歯
+fanny
+《米俗語》お尻
+fantasize
+空想する
+fantasize about
+～について空想にふける
+fantastic
+風変わりな,異様な,奇怪な,空想的な,気まぐれな,幻想的な,奇妙な,素晴らしい,大きい
+fantasy
+(途方もない)空想,ファンタジー,幻想,気まぐれ,空想の産物,幻想詩,【映画】ファンタジー映画
+far
+1.[距離･空間]遠くに,[程度]はるかに,遠くへ,遠くに,[時間]遠く,大いに,ずっと,(二者のうちで)遠いほうの,向こう側の,2.(政治的に)極端な,3.遠方,遠い
+far above one's comprehension, be
+<物･事が>理解できない
+far ahead
+はるか前方に
+far ahead of others, be
+際だっている
+far and away ~, be
+とびぬけて～,断然～,段違いに～(~の部分は比較級)
+far and near
+いたるところに
+far and wide
+(影響などが)大きく広い,遠く広く
+far away
+遠くに,ずっと離れた所に,ずっと遠くに,ずっと遠くで
+far back
+はるか後ろに
+far back in the past
+ずっと以前に
+far behind in one's schedule, be
+予定よりかなり遅れている
+far below ~, be
+～をはるかに下回る,～のはるか下に
+far better than it was
+以前よりずっといい
+far cry
+(be a ～)雲泥の差,はなはだしい隔たり,非常な相違
+far cry from ~, be a
+(be a ～)～に比べると見劣りする,大きな違いがある
+far different from ~, be
+～とは大違いで
+far faster than ~, be
+～よりはるかに速い
+far from being complete, be
+完成には程遠い
+far from perfect, be
+完全には程遠い
+far from satisfactory, be
+満足には程遠い
+far from the shore, be
+はるか沖合いに
+far from winning the first prize, be
+優勝には程遠い
+far from ~, be
+～には程遠い,決して～ではない / The Japanese government is far from being a perfect government, the Japanese body politic far from a creature of beauty, and the Japanese public by no means perfectly informed and altruistic. -Kaisha
+far future
+(the ～)遠い将来
+far higher than ~
+～よりはるかに高い
+far in advance
+かなり前もって
+far in excess, be
+はるかに超過している
+far in the future
+ずっと将来の
+far into the future
+遠く将来に
+far into the night
+夜おそくまで,夜ふけまで,夜遅くまで
+far left
+(the ～)極左
+far less than ~
+～よりずっと少ない
+far more
+はるかに多く
+far more discriminating
+はるかに選択的な
+far more than ~
+～よりずっと
+far out
+現実から遠く離れている,すばらしい
+far out, be
+ブッとんでいる
+far outpace ~
+大幅に上回る
+far outshine someone
+ピカー
+far outstrip ~
+～を大きく上回る,超える
+far removed from
+～から程遠い
+far right
+(the ～)極右
+far short of the target
+目標にはるかにおよばない
+far ultraviolet rays
+遠紫外線;略:FUV
+far 比較級 than ~
+～よりもずっと～
+far-fetched
+本当らしくない,ありそうもない,信じ難い
+far-fetched conclusion
+極端な結論(結末)
+far-flung
+広範囲の
+far-infrared rays
+遠赤外線;略:FIR
+far-off
+遠い
+far-out
+型破りの,(比較できないほど)素晴らしい
+far-reaching
+遠い将来まで広く,広く影響力のある
+faraway
+遠方の,はるかかなたの
+farce
+笑劇,茶番劇,ばかげたもの
+farcical
+笑劇の,茶番めいた,笑わせる,ばかげた,無益な
+farcical play
+笑劇
+fare
+1.料金,運賃,乗客,料理,2.(詩的に)行く,旅をする,3.(事がうまく,まずく)運ぶ,やっていく / ... even if the Social Democratic Party of Japan, led by Murayama, loses a large number of seats in the Upper House elections, Murayama will continue to head the government as long as the ruling coalition parties fare better as a whole than the opposition. -Japan Times(June '95)
+fare calculation
+運賃計算
+fare well
+(事が)うまく運ぶ
+farewell
+別れの挨拶,別れ,告別(の挨拶),送別会,さようなら,ご機嫌よう,さらば!,別れの
+farfetched
+こじつけの
+farinaceous
+穀粉の,澱粉を生ずる,澱粉質の,表面が穀粉のような
+farm
+1.飼育場,農場,農園,農家,2.耕作する,耕す,3.よそに預ける,賃貸しする
+farm out
+一軍の選手が二軍に降格する,左遷
+farm system
+1.【野球】二軍制度,2.(新人育成のための)研修制度
+farmer
+農場主,農民
+farmhouse
+農家
+farming
+1.農業の,農場の,2.農業経営,農業,養殖
+farming pond
+養殖池[場],shrimp farming pondで｢エビの養殖池｣ / It may be possible for a very few people to make a fortune by running a shrimp farming pond, but most fishing people lose the environment they need to earn their living. -AMPO
+farmland
+農地
+farmyard
+農家の庭
+farrago
+寄せ集め,ごたまぜ
+farrier
+蹄鉄工,馬医者
+farseeing
+遠目のきく
+farsighted
+先見の明のある,遠視の
+fart
+(卑語)屁,おなら,いやな奴,屁を放る
+fart about
+ばかなことをする
+fart around
+ばかなことをする
+farther
+1.(距離的に)もっと遠い,もっと遠く,もっと程度の進んだ,それ以上の,2.さらに遠く,もっと先に,(程度が)さらに進んで,なおその上に,さらにまた,もっと遠い
+farther on ~
+もっと先に
+farthest
+1.(距離)最も遠い,最も程度の進んだ,極端な(furthest),2. (距離･空間･時間)最も遠く,(程度)極端に(furthest),最も遠くに,最も遠く
+farthing
+ファージング(英国の旧通貨単位=1/4 penny),無価値な物,(否定文で)少しも
+farthingale
+(16-17世紀の)たが骨(で広げたスカート)
+fascinate
+人の心を捕える,魅する,悩殺する,魅了する
+fascinated with ~, be
+～にうっとりする,魅了される
+fascinating
+魅力のある,魅惑的な
+fascinating job
+やりがいのある仕事
+fascination
+うっとりした状態,魅惑,見込むこと,魅力
+fascism
+ファシズム
+fascist
+ファシスト(ムッソリーニの党から)
+fashion
+ファッション,流行,はやり,方法,やり方,つくり,種類,仕方,作る
+fashion sense
+ファッション感覚
+fashion-conscious
+流行に敏感な
+fashion-driven
+流行を動かす
+fashionable
+流行の,ファッショナブルな,社交界の,流行だ
+fast
+しっかりと,高速の,ぐっすりと,身持ちが悪い
+fast +1
+断食(する) / All were suffering from malnutrition, but most claimed they were fasting voluntarily. -Time
+fast Fourier transformation
+高速フーリエ変換;略:FFT
+fast as a top
+ぐっすり眠って
+fast as hops
+非常に早く
+fast attack boat
+高速攻撃艇;略:FAB
+fast breeder reactor
+高速増殖炉;略:FBR
+fast growth
+急成長
+fast or sticky-fingered
+手が早い
+fast-growing
+急成長の
+fast-moving
+<小説･劇などが>展開の速い,快調なテンポの
+fast-track careers
+出世街道を歩むということ
+fasten
+動物を囲いこむ,固定する,締める,しっかり固定する,を固着させる,衣類を留める,定着する,しがみつく,押さえて留める,結び付く,締まる,留める
+fastener
+ファスナー
+fastening
+留め具,締まる
+faster-race-car syndrome
+もっと速い方がいい症候群(?)
+fastidious
+1.気難しい,選り好みの激しい,2.細心の(注意を要する),丹念な
+fastidious about ~, be
+～にうるさい,～の選り好みが激しい
+fastidious in ~, be
+～にやかましい
+fasting blood sugar
+空腹時血糖;略:FBS
+fastness
+固定,要塞
+fat
+1.太った,デブの,肥満の,2.<食べ物が>脂肪分の多い,3.<仕事･取引などが>旨味のある,割りのいい
+fat and happy
+満足した
+fat as a butter
+バターのように脂ぎって
+fat as a pig
+豚のように太っていて,ふくよかで
+fat as a young thrush
+ひどく太って
+fat as an alderman
+(腹部が)非常に太って
+fat as butter
+(お世辞で)バターのように太っていて,ふくよかで
+fat cat
+(政治資金を出す)金持ち
+fat chance
+(a ～)[反語的]見込み薄
+fat depot
+脂肪組織
+fat farm
+減量センター
+fat stock
+肥畜(食用に太らせた子豚など) /=fatling
+fat-mouth
+有言不実行である
+fatal
+致命的な,命運を分ける
+fatal-
+(接頭辞)致死～
+fatalism
+運命論
+fatalist
+運命論者,宿命論者
+fatalistic
+運命論者
+fatality
+不幸,死亡(者数),運命,致死(率)
+fatback
+脂肪背(豚わき腹上部の脂身)
+fate
+巡り合わせ,宿命,予言,悲運,破滅,死,最終結果,運命づける,運命,運
+fateful
+決定的な
+fathead
+まぬけ
+father
+1.父,父親,2.～を起こす,創始する,～の創始[創作]者である,先祖,創始者,長老,父,父親になる
+father and mother
+父母
+father-in-law
+配偶者の父,義父
+fatherhood
+1.父権,父としての責任,2.《集合的》父
+fatherland
+祖国
+fatherless home
+母子家庭
+fathom
+の水深を測る,推し量る,見抜く
+fatigue
+1.疲労,雑役,2.疲労する,疲れさせる
+fatigue jacket
+作業着
+fatigue strength
+疲れ強さ
+fatigued
+疲れた,疲労した
+fatless
+脂肪のない,赤身の
+fatling
+肥畜(食用に太らせた子豚など)
+fatso
+太っちょ
+fatten
+太(らせ)る,(土地を)肥やす
+fattening
+太る,太らせる
+fattish
+太りぎみの
+fatty
+脂肪質の,油っこい,脂肪性の,脂肪の
+fatty liver
+脂肪肝
+fatuous
+(ひとりよがりで)愚かな,無意味な,まぬけの,頭がからっぽの,愚鈍な,ばかの,低能の
+faucet
+(水道などの)じゃ口,コック
+fault
+過失,誤り,欠点,過ち,断層,あらを探す,過失を犯す
+faultfinder
+とがめ立て[あら捜し]をする人,やかましや,うるさ型
+faultless
+欠点のない
+faulty
+欠陥のある,不完全な
+faun
+【ﾛｰﾏ神話】ファウヌス(半人半羊の牧神)
+faun-like
+【ﾛｰﾏ神話】ファウヌス(半人半羊の牧神･半人半獣の牧畜神の一人),ギリシャ神話のsatyr
+fauna
+地方または一時代の動物群[相],(分布上の)動物区系
+fauvisme
+《仏語》フォービズム(野獣派)
+faux pas
+《仏語》失策,あやまち,無礼,失策 (a false step),間違い,過失,誤ち,軽率なことば
+favor
+に好意を寄せる,好意,親切,世話,恩恵,賛成する,を助ける,えこひいき
+favorable
+好意ある,好意的な,好ましい,好意がある,好都合な
+favorably
+好意的に
+favored
+恵まれた
+favorite
+お気に入りの(もの),大好きな,ひいき,本命
+favorite book
+愛読書
+favorite of critics
+(a ～)評論家たちに気に入られている人
+favoritism
+偏愛,依怙贔屓
+fawn
+じゃれつく,【動物】子鹿
+fawning
+へいへいする,へつらう
+fax
+ファックス,ファクシミリ,ファクシミリで文書を送信する,ファックス送信する
+faze
+口もきけないほどびっくりさせる,心を騒がせる,あわてさせる
+fealty
+忠義
+fear
+1.恐れる,心配する,気遣う,2.恐れ,恐怖,不安,心配,懸念
+fear death
+死を恐れる
+fearful
+恐ろしい,ひどい,心配している,心配でできない
+fearfully
+おそるおそる,ひどく,恐ろしく
+fearless
+恐れを知らない,恐れない
+feasibility
+実現可能性
+feasibility study
+フィージビリティスタディ,実現の可能性を探るための予備的な研究または調査
+feasible
+実現可能な,可能な,適した,便利な,現実的な
+feasible plan
+実現可能な計画
+feast
+もてなす,にごちそうする,祝宴,饗宴,宴会,ご馳走,祭日,(～を)大いに楽しむ,ごちそう,味わう
+feast one's eyes on ~
+～で目の保養をする,～を見て楽しむ
+feast or famine
+豊富か欠乏か,大成功か大失敗か(feast=祝宴,famine=飢饉)
+feat
+偉業,功績,際だった行い(achievement),芸当,妙技,離れ業
+feather
+羽,羽毛,羽毛を付ける,覆う
+feather in one's cap
+(a ～)自慢の種,お手柄
+feather one's nest
+(通例不正手段で)金持ちになる,私腹を肥やす
+featherbedding
+水増し雇用要求
+feature
+顔の一部,顔立ち･特徴,容貌,地形,顔立ち,特徴,上映作品,特集記事,主演させる
+feature film
+【映画】(同時上映されるうちの)主要作品, 特作
+featureless
+特色のない
+febrifuge
+解熱剤,熱をさます
+febrile
+熱病の,熱からおこる
+fecal
+ふん便の
+feces
+ふん,排出物,糞便(ふんべん),かす
+feckless
+無効な,無能な,役に立たない
+fecund
+よく実る,多産の,よく肥えた,創造力豊かな
+fecundate
+(土地)を肥沃にする,多産にする,肥沃にする
+fecundity
+肥沃,多産,生産力,生産性,生殖能力
+fecundity of fancy
+豊かな想像力
+fed
+feedの過去･過去分詞形
+fed +1
+《俗語》FBIの捜査官
+fed up
+うんざりして,いらいらして
+fed up with ~, be
+～にうんざりする,～がほとほといやになる
+federal
+連邦政府の,連合の,同盟の,連邦制の,合衆国の,北部連邦支持者,連邦の
+federal bankruptcy laws
+連邦破産法
+federal court
+米国連邦裁判所
+federal government
+連邦政府
+federal law
+連邦法
+federal state
+連邦
+federal, state and local health and safety agency
+連邦政府･州･地方の安全健康機関
+federation
+連邦,連盟,連邦政府,同盟,組合,連合
+fee
+手数料,(入場)料金,謝礼
+feeble
+かよわい,弱々しい
+feeble-minded
+1.知能の低い,2.愚かな,3.【医学】知能の遅れた
+feed
+虚栄心を満足させる,に食物を与える,を養う,を飼う,ランプに油を差す,目を楽しませる,飼料,給水,えさ,給送装置,供給する,食べさせる,食べる
+feed and clothe ~
+～に衣食を与える
+feed on ~
+～を餌にする,常食としている
+feed the media with snippets of hard information
+to give the media bits of solid facts
+feed up
+飽きるほど食べさせる,うんざりさせる
+feedthrough
+フィードスルー,貫通接続
+feel
+1.～と悟る感覚がある,に触ってみる,を探る,を感じる,感じがする,を感知する,2.感触,手触り,と悟る感覚がある,感触,あたりを探る,感じる,触って確かめる,触る
+feel a pinch
+危機を感ずる
+feel a slight chill
+少し肌寒い
+feel afraid
+心配する
+feel awkward
+ぎこちない,こだわりを感じる,間の悪い思いをする
+feel blue
+憂うつである,落ち込む
+feel for ~
+に同情する
+feel giddy
+目まいがする
+feel green around the gills
+気分が悪い
+feel green around the gills（ギルズ）
+気分が悪い
+feel ill at ease
+気づまりである
+feel in one's bone
+直感的にわかる
+feel jealous
+やきもちを焼く
+feel like -ing
+したい気分である
+feel like a million bucks
+最高の気分である
+feel like death warmed up
+《口》ひどく疲れている,ひどく具合が悪い
+feel like ~ing
+～したく思う,～したいような気がする,気分である
+feel nostalgic (about ~)
+(～を)懐かしむ,懐かしく思う
+feel one's age
+年を感じる
+feel poorly
+体の具合が悪い
+feel run down
+疲れはてた
+feel self-conscious
+気後れがする,あがってしまう
+feel self-conscious about visiting
+敷居が高い
+feel sick
+胸がむかむかする
+feel sorry for ~
+～を残念に思う
+feel strongly
+確信する
+feel up to ~
+～できる状態にある
+feeler
+さわってみる人,触知者,探り,打診,触角
+feeling
+1.感じ,感情,フィーリング,(何かの)感覚,センス,意見,2.感じ易い,思いやりがある,感情的な / A Hanshin earthquake victim said,  "There is a feeling among the people that we can no longer trust the government."
+feeling of being victimized
+(the ～)被害者意識
+feet
+footの複数形
+feign
+のふりをする,を装う,だと見せかける
+feigned
+偽りの,虚偽の
+feint
+見せかけ,陽動(作戦),(～する)ふり,フェイント(攻撃),牽制
+feisty
+1.いらいらした,短気な,2.積極的な,元気のいい
+feldspar
+長石
+felicitate
+(人を) ～のことで祝う,祝賀する
+felicitation
+祝賀,祝辞
+felicitous
+適切な,ぴったりの,うまい,表現の巧みな,幸運な
+felicity
+至福,幸運,吉事,(表現の)巧みさ,適切さ,適切な表現,非常な幸福,慶事,(言葉･表現の)うまさ,適切
+feline
+ネコ科の,猫のような,おとなしい,そつがない,狡猾な
+fell
+fallの過去形
+fellate
+フェラチオをする
+fellatio
+フェラチオ,★cunnilingus(クンニリングス)
+fellow
+匹敵者,男,奴,野郎,仲間,同輩,同僚
+fellow man
+=fellowman,人間同士,同胞
+fellow worker
+仕事の同僚
+fellowship
+1.友情,仲間,2.特別研究員貫の資格,特別研究員への奨学金,友情,奨学金,団体,特別研究員の地位
+felon
+【法】(殺人･強盗などの)重罪犯人(criminal)
+felonious
+重罪の
+felony
+【法】(殺人･強盗などの)重罪
+felt
+1.フェルト,2.feelの過去･過去分詞形
+felt like two cents
+恥ずかしい(ばつの悪い)思いをする
+felt-tipped pen
+フェルトペン,★felt-tip pen, felt penとも
+fem.
+feminine 女性の
+female
+女性の,女性,雌,雌性の,受ける側の;略:F
+female sex
+(the ～)女性
+female sex hormone
+女性ホルモン
+feminine
+女の,女性の,女性らしい◆⇔masculine, n. femininity
+feminine fantasy
+夢の女性
+feminism
+フェミニズム(女性も男性と同じ権利や機会を平等に与えられるべきだという考え方)
+feminist
+男女同権主義者
+feminist issues
+女性たちにとって重要な問題
+feminity
+女性らしさ
+feminize
+女性化する,女性色を打ち出す
+femme
+《仏語》レズの女役. femme fatale [F. 妖婦(ようふ)].
+femme fatal
+妖婦,危険なまでに魅力的な女性
+femme fatale
+《仏語》(pl. femmes fatales) 男を破滅させる女,女スパイ
+fen country
+沼沢地方
+fence
+1.柵,フェンス,囲い,垣(ｶｷ),へい,2.さくで仕切る,フェンシングをする
+fence +1
+盗品の買人
+fence-mending
+てこ入れ
+fenced in by ~, be
+～で囲まれた,包囲された
+fencing
+フェンシング
+fend
+(剣,攻撃など)をかわす,受け流す,扶養する,生活する
+fend for oneself
+独りでやりくりする
+fend off
+払いのける,(打撃)受け流す,かわす
+fender
+【車】《米》フェンダー
+feng shui
+《中》風水,中国の気学による占い
+fer-de-lance
+《仏語》フェルドランス(中南米産の大型毒蛇)
+feral
+野生の,野にいる,野生化した,野獣のような,凶暴な
+ferment
+1.混乱,騒乱,動揺,2.酵素,3.発酵する,発酵させる,沸き立たせる,たぎる,4.刺激する,かきたてる
+fermentation
+発酵,醗酵
+fern
+【植物】シダ,シダ類
+ferocious
+恐ろしい
+ferocity
+獰猛性
+ferret
+1.捜し出す,探り出す,2.【動物】フェレット(狩猟用イタチ)
+ferric oxide
+酸化第二鉄
+ferrimagnetic materials
+フェリ磁性体
+ferrite
+フェライト
+ferroalloy
+合金鉄
+ferroelectric
+強誘電性の
+ferroelectrics
+強誘電体
+ferromagnetic
+強磁性の,強磁性体
+ferrous
+鉄の,鉄を含む
+ferrous oxide
+酸化第一鉄
+ferrum
+《ﾗﾃﾝ語》鉄(iron);略:Fe(元素記号)
+ferry
+渡し場,フェリーボート,自力現地輸送する,フェリー,船で渡す
+fertile
+肥沃な,生産力の豊かな,多産な,創造力豊かな,繁殖力がある
+fertility
+肥沃,多産,肥沃度,出生率,生殖能力,繁殖力,受精率,繁殖力があること
+fertilization
+授精,豊かにすること
+fertilize
+肥やす,豊かにする,受精させる,受胎させる,受粉させる
+fertilizer
+肥料,化学肥料,豊かにする人[物],受精媒介物
+fervent prayers are not answered
+祈りが届かない
+fervent supporter
+熱烈な支持者
+fervid
+(しつこいほど)熱烈な,燃えるような
+fervor
+(感情の)熱烈さ,真剣さ,熱烈,白熱,情熱
+fester
+(傷などが)膿む,(悲しみなどが)うずく,苦しめる,うむ,ただれる,腐る,昂ずる,痛む
+festival
+祭,祝祭,定期的催物,祭り,祝い,祝日
+festive
+お祝いの,陽気な
+festive mood
+お祭り気分
+festivity
+祭典,お祭り騒ぎ,祝いの催し[行事]
+festoon
+花づな,花綱(で飾る)
+fetal
+胎児の
+fetch
+取ってくる,引出す,(物を)行って取ってくる,取って来ること,取って来る,到着する
+fetch and carry
+召使いのように使い走りをする
+fetch the water
+ポンプに迎え水をして水を吸い上げる
+fetch/load trace
+F/Lトレース
+fetching
+持ってくる
+fete
+祭,にぎやかな催し,祝典,祝宴,祭日,祝日,祝祭,休日
+feticide
+胎児殺し,堕胎
+fetid
+強い悪臭を放つ,臭い
+fetidness
+悪臭を放つこと,悪臭
+fetish
+物神,呪物,迷信の対象,盲目的崇拝物
+fetishism
+1.物神崇拝,2.【精神医学】フェティシズム,異性の持ち物や肉体の一部に対する性愛
+fetishist
+物神崇拝者,フェティシスト / I think that when we are children we are much more inclinded to be fetishists of one kind or another.
+fetology
+胎児(治療)学
+fetter
+束縛する,足かせ,足鎖,束縛,拘束
+fettered by tradition
+因習に縛られて
+fettle
+(心身の)状態
+fettucini
+《伊》フェットチーネ(平ひも状のパスタ)
+fetus
+(妊娠3ヵ月以後の)胎児
+fetuses
+胎児
+feud
+1.(封建時代の)領地,封土,2.敵意,反目(する),不和(になる)
+feudal
+封建の
+feudalism
+封建制度
+feudalistic
+封建的な
+fever
+熱,熱狂
+few
+1.(a ～)いくつかの,少数の,2,3の,2.あまり～ない,ほとんど～ない,少ない
+few and far between
+きわめて稀の,ごく少ない / Representations of non-Japanese ethnic groups in Japanese popular media are few and far between. In fact, I am sure it is possible to count on two hands the cumulative number of films from the past five years focusing on non-Japanese communities in Japan. -AMPO '95
+few days ago
+(a ～)数日前
+few minutes
+(a ～)数分
+fey
+(けなして)(人(特に女性)の行為が)感覚的で愚かな,非現実的な
+fez
+トルコ帽
+fiance
+《仏語》婚約者(男性)
+fiasco
+《伊》(屈辱的な)大失敗,大しくじり
+fiat
+命令,厳命,許可,決定,決断
+fib
+罪のないうそ(をつく),めった打ち
+fiber
+繊維,性質
+fiber glass
+ガラス繊維
+fiber producer
+原糸メーカー
+fiber reinforced concrete
+繊維強化コンクリート;略:FRC
+fiber reinforced metal
+繊維強化金属;略:FRM
+fiberglass reinforced plastic
+ガラス繊維強化プラスチック;略:FRp
+fiberglass reinforced thermoplastics
+繊維強化プラスチック;略:FRTP
+fibrogenic
+線維形成誘導性の
+fibroma
+繊維腫
+fibrosarcoma
+線維腫
+fibrosis
+繊維症,繊維形成,線維症
+fibrous
+繊維の,繊維質の,繊維性の,繊維状の,強い,強靭な
+fickle
+気紛れな,移り気な
+fickle as April weather
+ひどく気紛れで
+fickle as fortune
+ひどく気紛れで
+fickle weather
+変わりやすい天候
+fickleness
+移り気
+fiction
+想像,小説,フィクション,作り話
+fictional
+虚構の
+fictitious
+架空の,偽の
+fictive
+創作力のある
+fiddle
+1.いじる,2.バイオリン,バイオリン,ごまかす,バイオリンを弾く,ふざける
+fiddle around (with something)
+～をもて遊ぶ,～をちょっといじってみる,(明確な目的もなく)ぶらぶらしている
+fiddle around with something
+～をもて遊ぶ,ちょっといじってみる
+fiddle around with ~
+(機械などを)あれこれいじくりまわす
+fiddlesticks
+ばからしい!
+fidelity
+1.忠実,忠義,忠誠,2.正確さ,厳密さ
+fidget
+そわそわする,気をもむ,いじくり回す
+fidgety
+落ち着かない,そわそわしている
+fiduciary
+信用上の,信託の,受託者,被信託者
+fief
+=feud,(封建時代の)領土,封土
+field
+野原,畑,競技場,分野,(球)をさばく,処理する,フィールド,守備をする
+field control
+磁界制御
+field day
+(遠足･ピクニックなどの)野外運動の日
+field emission
+電界放出
+field goal
+【ｱﾒﾌﾄ】フィールドゴール;略:FG
+field guided missile
+野戦誘導ミサイル;略:FGM
+field intensity
+電界の強さ
+field interceptor missile
+野戦用対空ミサイル;略:FIM
+field lens
+視野レンズ
+field line
+力線,line of force
+field of expertise
+専門分野
+field of force
+力の場
+field of view
+視界,視野
+field of vision
+視野
+field study
+現地調査
+field trips
+見学旅行
+field windings
+界磁コイル
+field-effect
+【電気電子】<トランジスタ･液晶などが>電界効果の[を利用した]
+field-effect transistor
+【電気電子】電界効果トランジスタ;略:FET
+field-enhanced emission
+【電気電子】電界増加型放出
+fiend
+悪魔(devil, demon)
+fiendishly
+悪魔のように,ひどく,大変に
+fierce
+気性が荒々しい,激しい,すさまじい,獰猛な,行動が獰猛な,風雨が激しい,熱烈な,猛烈な
+fierce as a tiger
+虎のように荒々しく,凶暴な,獰猛(どうもう)な
+fiercely
+獰猛に,すさまじく
+fierceness
+猛烈
+fiery
+火の,激しい,燃えるような
+fiesta
+《西》(宗教上の)祝祭(日);休日
+fifteen
+15
+fifteen minutes late in starting
+15分遅れの開始
+fifteenth
+15の,15番目の
+fifth
+第5の,第5
+fiftieth
+50の,50番目の
+fifty
+50
+fifty-fifty
+半々で
+fig
+【植物】イチジク
+fig.
+figurative,比ゆ的な,figure,図
+fight
+1.論争,戦い,ファイト,闘志,2.こらえる,撃退する,戦う,抵抗する
+fight a losing battle
+負け戦をする,勝ち目のない戦いをする
+fight a rear-guard action
+(戦闘で)しんがりをつとめる
+fight against time
+時間と競争する
+fight against ~
+～と戦う
+fight at the drop of a hat
+けんかっ早い
+fight back
+抵抗する,【相撲】押し戻す
+fight for ~
+～のために戦う / We are only fighting for our human rights.
+fight it out
+あくまでも戦い抜く
+fight off ~
+～を撃退する
+fight shy of ~
+(行動･人など)を嫌がる(避ける),敬遠する
+fight the battle of the bulge
+やせようと必死に努力する,減量に努める
+fight to the death
+死ぬまで戦う
+fight with ~
+～と戦う
+fight ~ out
+～を戦い抜く
+fighter
+戦う人,戦士,ファイター,戦闘機
+fighter experimental
+次期戦闘機;略:FX
+fighter support experimental
+次期支援戦闘機;略:FSX
+fighting
+戦う,戦い
+fighting trim
+戦闘態勢
+figment
+空想事
+figurant
+《仏語》(群舞の)踊り手,端役(はやく)
+figurative
+比喩的な
+figuratively speaking
+比喩的に言えば,誇張して言えば
+figure
+1.図で表す,想像する,象徴する,心の中に描く,計算する,計算に入れる,2.形,形態,人影,風采,外観,肖像,挿絵,数字,姿
+figure of speech
+言葉のあや,比喩(ひゆ)
+figure out ~ [~ out]
+見分ける,understand something with difficulty(難しい問題などをよく考えて)理解する,考え出す
+figure1
+1.～を図で表す,～を想像する,～を象徴する,～を心の中に描く,2.形,形態,人影,大立物,名士風采,外観,肖像,挿絵,数字,姿
+figured
+模様のある
+figurehead
+船首像,名目上の頭首[頭主],表看板,名目上の頭主
+figures
+数字,統計,データ
+figurine
+(陶器,金属などの)装飾用小立像
+filament
+単繊維,糸状のもの
+filch
+くすねる
+file
+1.綴じ込む, (正式に)(申請書･告訴など)を提起する,提出する,2.ファイル
+file +1
+1.やすり,2.やすりで滑らかにする[磨く]
+file +2
+1.行進させる,縦列で進む,2.縦列,縦に並んだ人[物]の列
+file a complaint
+正式に苦情を訴える
+file a suit [or lawsuit]
+訴訟を起こす
+file a suit against the government
+国を相手取って訴訟を起こした
+file copy
+控え用の写し
+file for ~
+～を申請する,願い出る / In February 1964 Tohatsu filed for bankruptcy. It sales had decreased sharply, its funds were exhausted, and its bills went unpaid. -Kaisha
+file name
+ファイル名,=filename
+filet
+《仏語》(網目)レース,<料理>=fillet
+filial
+子としての,親から～世代の
+filibuster
+議事妨害(者),議事妨害者,革命扇動者,(長演説などによる少数派の)議事進行妨害,議事進行を妨害する(米下院では1時間以上の長演説はふつう制限されているが米上院では討論の終了には全議員の3分の2の賛成が必要(討論終結規定1949年)なので長演説はいまも反対派にとっては有効な方策となっている)
+filicide
+兄(弟)殺し,姉(妹)殺し
+filigree
+(金･銀)線条細工,金属のすかし細工(を施した)
+filing
+綴じ込みの
+fill
+補充する,果たす,(条件･要求などを)満たす,いっぱいにする,満ちる,詰める,容器一杯の量,いっぱいになる,一杯にする
+fill a void
+欠けた部分を埋める
+fill and stop
+満杯時停止
+fill character
+埋め字,充填文字
+fill in
+所要の書き入れをする,最新の情報を与える,空欄に必要事項を記入する,埋め込む
+fill in for ~
+代行する
+fill in on ~
+人に～についての(最新の)情報を与える
+fill in the gaps
+不足を補う,complete
+fill out
+(用紙などに必要事を)記入する,(用紙などに)必要事 を記入する
+fill someone in
+情報を提供する
+fill someone's shoes
+To measure up to the standard set by a predecessor.(前任者が築いたレベルに達すること),to measure up to the standard set by a predecessor
+fill the bill
+要求を満足させる
+fill up
+いっぱいになる･する,埋める
+fill up prescription
+処方薬を調合する
+fill up the measure of ~
+やり通す
+fill-in
+充填
+filled with ~, be
+～でいっぱいになる
+fillet
+首下の丸み,魚をおろす,骨のない切り身にする
+filling
+注入
+filling station
+ガソリンスタンド★gas station, service stationとも
+filly
+雌の子馬
+film
+1.フィルム,被膜,映画,2.フィルムに写る,映画を撮る
+film advance mode
+【写真】フィルム駆動モード
+film cartridge chamber
+【写真】マガジン収納部
+film cassette
+【写真】フィルムカセット(単にcassetteとも)
+film crew
+(映画などの)撮影スタッフ
+film disk
+【写真】フィルムディスク
+film guide rail
+【写真】フィルムガイドレール
+film guide roller
+【写真】フィルムガイドローラー
+film integrated circuit
+【電気電子】膜集積回路;略:FIC
+film just for children
+(a ～)子供向きの映画
+film leader
+【写真】フィルムリーダー部
+film leader indicator
+【写真】フィルムリーダー指示部
+film noir
+【映画】フィルムノワール
+film pack
+【写真】フィルムパック
+film rewind knob
+【写真】フィルム巻き戻しノブ[つまみ]
+film rewind system
+【写真】フィルム巻き戻し装置
+film score
+映画の背景の音楽
+film speed
+【写真】フィルム感度
+film sprocket
+【写真】スプロケット
+film with a soul
+心のこもった映画
+films with a soul
+心のこもった映画
+filmstrip
+映写スライド
+filmy
+薄膜の
+filovirus
+フィロウィルス
+filter
+フィルター,濾過する,濾(こ)す,濾過器,濾過用資材,ろ過する,染み出る
+filter out
+(うわさ,光などが)漏れてくる,だんだん知られてくる
+filth
+1. 汚いもの,不潔なもの,汚物,汚い[ひわいな]言葉,悪態,みだらな考え,2.堕落,腐敗,3.悪党,売春婦,みだらな言葉,堕落,不潔
+filthily
+きたなく,きたならしく,不潔に
+filthiness
+きたないこと,不潔なこと
+filthy
+1.,(filthier, filthiest)不潔な,非常に汚いきたない,みだらな,ひわいな,実にいやな,ぞっとする,2.《米口》非常に,とても,非常に汚い
+filthy pig
+不潔な豚
+fin
+(魚の)ひれ
+fin de siecle
+《仏語》世紀末(の),退廃的な
+final
+最後の,期末試験,決勝戦,最終の,最終的な
+final argument
+最終弁論
+final as death
+死ぬことと同じように最後で
+final balance
+期末残高
+final goods
+【経済】最終財貨
+final inventory
+期末在庫
+final itinerary
+最終旅行日程
+final prediction error
+最終予測誤差規範,FPE
+final say
+最終決定権 / Though the governor has the final say on whether the expo goes ahead, holding to his promise may not be easy. -Newsweek '95
+final tax return
+確定申告
+final tax returns
+確定申告
+finale
+フィナーレ,終局(発音[fina:li]),終楽章
+finally
+最終的に
+finance
+1.財務,財政,金融,財源,2.賄う,資金を調達する,融資する
+finance department
+財務部
+financed by ~, be
+～のお金[資金]で賄われる
+finances
+=financial resources,財源,資金,財務状態
+financial
+財政上の,財務の,金融上の,会計の,財界人の
+financial accounting
+財務会計
+financial assistance
+学費補助
+financial breakdown
+金融崩壊
+financial institution
+金融機関
+financial planning
+財務計画の立案(業務);略:F.P.
+financial resources
+=finances,財源
+financial sources
+財源
+financial statement
+財務表,財務状態の説明書
+financial statements
+財務諸表
+financial year
+会計年度
+financially
+財政的に
+financier
+財政家,財務官
+financing
+融資
+find
+に気付く,見つける,掘り出し物,気がつく,気付く,見い出す
+find a date
+デートの相手を探す
+find a way to ~
+方法を見つける
+find an answer to a question
+答えを出す
+find fault with ~
+のあらさがしをする,～のあら捜しをする
+find one's way
+道を求めて行く
+find oneself in [at] ~
+気が付いてみると～にいる
+find out
+発見する
+find something heavy going
+物事を進めていくのに手こずる,のろのろして進まない
+find the answer
+分かる,答を見つける
+finder
+【写真】ファインダー,1.距離計(range finder),2.撮影する画面範囲を決めるための装置
+finding
+発見,結論,(裁判官,陪審)認定,決定,裁定,拾得物,調査結果,判決,評決
+findings
+研究(調査)結果
+fine
+1.【気象】晴れ,2. 上質の,立派な,繊細な,3.罰金,4.薄くする
+fine a man as ever stepped (in shoe-leather)
+かって見られない立派な人
+fine as a fiddle
+《米口語》非常に元気で,丈夫で,ぴんぴんして
+fine as a man [or woman] as ever trod in shoe of leather
+今までの誰にも負けない立派な男[女]
+fine as fippence
+非常に立派で,素敵で
+fine as five pence
+非常に立派で,素敵で
+fine ceramics
+ファインセラミックス;略:FC
+fine judge of character
+人の性格を見分けるのがうまい人
+fine line between
+～の間の微妙な違い,紙一重
+fine weather
+【気象】好天
+fines herbes
+《仏語》フィーヌゼルブ:オムレツやサラダなどに風味を添えるみじん切りのハーブ
+finesse
+1.策略,技巧,巧妙な処理,術策,2.策略を用いる(発音[finess])
+finesse of love
+(the ～)恋愛術
+finger
+1.指,2.回廊,回廊,指,指で触れる,密告する
+fingernail
+指の爪
+fingerprint
+指紋(をとる),指紋を取る
+fingerprints
+指紋
+finis
+《ﾗﾃﾝ語》終わり(巻末などに記す)
+finish
+終える,終わる,仕上げ,終わり,やっつける
+finish all the preparations
+下ごしらえをする
+finish line
+100m走などのゴール
+finish off
+殺す
+finished goods
+製品
+finishing mill
+仕上げ圧延機
+finishing touch
+最後の仕上げ(the touch for finish)
+finishing ~, be
+～まであと一歩にこぎつけた
+finite
+限定された,限りある,有限の
+finite complex plane
+有限複素平面
+finite element method
+有限要素法;略:FEM
+finite verb
+【文法】定(形)動詞
+fink
+1.《米俗語》スト破り,(労働組合の活動をさぐる)労働スパイ,密告者(アメリカのスト破りの名から),警察のスパイ,裏切り者,〔話〕いやなやつ,のけもの,2. ～を警察に知らせる,密告する,裏切る
+fiord
+峡湾,フィヨルド
+fir
+【植物】モミ,樅,樅材
+fir tree
+モミの木
+fire
+1.火,2.発射する,3.首にする,解雇する,火,発射する,首にする,かき立てる,かっとなる,火をつける
+fire a salute
+礼砲を放つ
+fire away
+1.どんどん話[質問]をする,2.始める,3.写真を撮る,★すべて自動詞的に使われる
+fire away about ~
+～を始める
+fire away at ~
+1.(～目掛けて)銃を撃ち続ける,2.～に立て続けに質問を浴びせる
+fire box
+火室
+fire clay
+耐火粘土
+fire control system
+火器管制装置;略:FCS
+fire drill
+防災訓練
+fire escape
+火災避難路
+fire fighter
+消防士
+fire fighting
+消防(活動)
+fire hydrant
+消火栓;略:FH
+fire insurance
+火災保険
+fire off
+シャッターを切る,写真を撮る(fire away)
+fire off ~ [~ off]
+1.発射する,2.(言葉などを)浴びせる,(手紙などをさっと)送る
+fire sale
+火災物件処分売り
+fire up
+《俗語》(マリファナなどに)火をつける
+fire up ~ [~ up]
+1.(機械･エンジンなどを)始動させる,2.《米俗語》～とセックスする
+fire-sale
+格安の
+fire-side chat
+(a ～)炉辺の打ち解けた談話
+firebomb
+焼夷弾(incendiary bomb),焼夷弾で攻撃する
+firebrand
+たいまつ,燃え木,扇動者,(激情を)あおる者,火つけ役
+firebrick
+耐火煉瓦
+firecracker
+爆竹,《米俗語》爆弾
+firefighter
+消防士
+firefly
+【虫】ホタル(lighting bug)
+fireman
+消防士,性差別を防ぐため一般的にはfirefighterが用いられる
+firemen
+firemanの複数形
+fireplace
+暖炉
+fireproof
+耐火,防火
+fireside
+炉ばた
+firewood
+薪
+fireworks
+花火
+firing
+発射する
+firing range
+試射場
+firm
+(名)会社,商会,商店,企業,医療チーム,(動)固まる,固める(まる),安定させる,(形)固い,堅い,堅固な,頑丈な,断固とした,しっかりした,安定した,確固たる,強い相場,しっかりと
+firm answer
+はっきりした答え
+firm as a rock
+岩のように堅固で,確固不抜で,意志の強い(very rigid, steady, immovable),岩のように動かない,まったくぐらつかない,震えない,しっかりして
+firm as a stone
+石のように堅い/堅固な
+firm as a vice
+ぴくりとも動かない
+firm as stone
+石のように堅い
+firm bid
+確定買呼値
+firm up foundation
+基礎を固める
+firm up ~ [or ~ up]
+(計画･予定などを)固める,決める
+firm2
+商会,商店,会社,企業,医療チーム
+firmament
+天空
+firmly
+堅く,しっかりと,断固
+firms
+商会,商店
+firmware
+ファームウェア
+first
+初めて,最初の,第一の,はじめに,最初,第1
+first (base)
+【野球】一塁
+first aid
+救急処置,応急手当
+first and foremost
+真っ先に,いの一番に,何をおいても,まず第一に,まっ先に
+first and last
+全体で
+first approaches
+初期の試み
+first baseman
+【野球】一塁手
+first edition
+第1版,初版
+first fundamental form
+第1基本形式
+first of all
+まず第一に(in the first place)
+first one to bring it up
+(the ～)言い出しっぺ
+first past the post system
+(the ～)"多数得票"制度,選挙で,1票でも多く得票を得たものが当選する制度 / This 'first past the post' system is clear, familiar and simple, but it means that tha candidate who comes second gets nothing. -Britain Explored
+first person
+【文法】一人称
+first quater of a year
+(the ～)第1四半期,海外では1～3月,日本では4～6月
+first reading
+【議会】第一読会,★英国では,法案の審議は,first reading, second reading, committee stage, report stage, thir readingの5段階からなる
+first section
+【株式】一部,二部はsecond section
+first sexual experience
+初体験
+first shifting theorem
+第1移動定理
+first taste of ~
+初めて飲む
+first thing
+最初に,真っ先に
+first thing in the morning
+朝一番に,朝一
+first three months of a year
+(the ～)1月～3月
+first transmission
+第1送電線方程式
+first-class
+第一級の,一級の,最上の
+first-ever
+初めての
+first-in first-out
+先入れ先出し(方式)の;略:FIFO
+first-in last-out
+先入れ後出し(方式)の;略:FILO
+first-line
+第一線の
+first-rate
+一流の
+firsthand
+直仕入れの
+firstly
+まず第一に
+fiscal
+国庫収入の,財政上の,会計の,国庫の,収入印紙,財務の
+fiscal agent
+財務代理人
+fiscal budget
+年度予算
+fiscal crisis
+財政危機
+fiscal law
+会計法
+fiscal policy
+財政政策
+fiscal reporting
+会計報告
+fiscal year
+会計年度,事業年度;略:FY
+fish
+1.釣る,捜す,探る,2.魚,3.《俗語》バカ,アルコール飲料をがぶがぶ飲む人(Someone who drinks a lot of alcoholic beverages): You drink like a fish.,いやな人,軽蔑すべき人(nerd)
+fish alive
+生きた魚
+fish and chips
+白身魚のフライとフライドポテトのスナック
+fish hawk
+【鳥】ミサゴ;魚類を餌にする鷹(たか)
+fish in troubled waters
+to try to get advantage out of other people's troubles,どさくさ紛れに利益を占める[うまいことをする],火事場泥棒を働く,火事場に乗じて一儲けする
+fish oil
+(鯨油などの)魚油
+fish out of water
+水を離れた魚,不慣れな環境にあって適応していけない人,陸に上がった河童,木から落ちた猿,不得意な地位にいる人,環境が変わって戸惑っている人
+fish protein concentrate
+魚肉濃縮たんぱく;略:FPC
+fish story
+ほら話
+fisher
+漁師,釣りをする人,魚を取る人
+fisherman
+漁師,釣りをする人
+fishermen
+fishermanの複数形
+fishery
+漁業
+fisheye lens
+【写真】魚眼レンズ
+fishing
+魚つり
+fishing implements
+つり道具
+fishing in troubled waters
+漁夫の利益を得る
+fishing line
+釣糸
+fishmonger
+漁屋の人
+fishy
+魚臭い
+fishy eyes
+どんよりした目
+fissile
+裂けやすい,(核)分裂性の
+fission
+分裂,核分裂
+fission product
+核分裂生成物;略:FP
+fissure
+裂け目,割れ目,亀裂,ひび,分裂
+fissured vault
+ひびのある丸天井
+fist
+こぶし,拳固,握りこぶし,げんこつで打つ
+fist-banging
+抗議すること
+fit
+1.合う,適合する,2.適当な,資格のある,健康な,3.発作,ひきつけ,合う
+fit A with ~
+Aに～を取り付ける
+fit as a fiddle
+《口語》フィドル(バイオリン)のように非常に元気で,元気でぴんぴんして,健康で,とても丈夫な
+fit as a flea
+《英》健康そのものである,とても元気で,非常に達者で
+fit in with ~
+と一致する,調和する,適合する
+fit into ~
+~ に組み込まれる,はまる,～に転換する
+fit like a glove
+ぴったり合う
+fit to burst
+《口》今にも(爆発的に)しそう
+fitful
+発作的な,変わりやすい
+fitful worker
+気まぐれに働く人
+fitment
+家具
+fitness
+適当,健康
+fits
+けいれん発作(convulsions, epileptic seizures)
+fitter
+1.適合するもの[人],2.(衣服などの)着付け[型取り]をする人
+fitting
+1.妥当な,適当な,似合いの,2.建具,着付け,備品
+fittings
+建具
+five
+5つの
+five fathoms deep
+水深5尋(ひろ)
+five senses
+(視覚･聴覚･嗅覚･味覚･触覚の)五感★sight, hearing, smell, taste, and touch
+five-and-dime
+(安物を扱う)雑貨店
+five-and-dime store
+安物雑貨店(昔は,5セント,または10セント均一だった)
+five-and-ten
+《米会話》安物雑貨店
+five-percenter
+《俗語》補償額の10%を謝礼として受け取る弁護士
+five-star general
+元帥(大将の上の位)
+fix
+1.固定させる,修理する,整える,元の(本来の,正常な)状態に戻す,まとめる,(日時を)決める,2.苦境,(応急的)処置,《口語》困った立場,八百長,3.《口語》麻薬の注射
+fix an order of priority
+優先順位をつける
+fix on ~
+～に決める
+fix one's wagon
+おしりをぶつ
+fix someone up
+(恋愛関係になることを期待して)～に異性を紹介する,誰かのためにデートや約束を取り計らう(準備する)
+fix up
+1.決める,あてがう,2.(服装･髪など)を整える
+fix ~ in mind
+～を頭に入れておく,心に刻み付ける
+fix ~ some tea
+お茶をたてる
+fix ~ up
+(恋愛関係になることを期待して)～に異性を紹介する,誰かのためにデートや約束を取り計らう(準備する)
+fixated
+adj. ～に執着した
+fixation
+定着
+fixed
+固定した,(勝負･レースなどが)不正な,予め仕組まれている,固定させた
+fixed angle end stops
+固定角度エンドストッパ
+fixed assets
+固定資産税
+fixed capital
+固定資本
+fixed cost
+固定費
+fixed deposit
+=time deposit,定期預金
+fixed displacement compressor
+固定容量コンプレッサ
+fixed exchange rate system
+【経済】固定為替相場制,★floating exchange rate system(変動為替相場制)
+fixed for ~, be
+(お金や食べ物など)必要なものを与えられている
+fixed interest rate
+【経済】固定[確定]利率(の)
+fixed length record
+固定長レコード
+fixed liabilities
+固定負債
+fixed page
+固定ページ
+fixed point
+不動点
+fixed point arithmetic
+固定小数点演算
+fixed point data
+固定小数点数
+fixed spanner
+固定式スパナー
+fixed-rate mortgage
+定額償還の抵当貸付
+fixedly
+固定して,じっと
+fixing rate
+仲値
+fixing to do ~, be
+～するつもりである
+fixity
+定着,不変
+fixture
+固定物,作りつけ備品,開催日,備品
+fizz
+しゅうという音,フィズ
+fizzle
+(最初はうまくいくが)(最初はうまく行くが)失敗に終わる,しくじる,弱く消えてしまうようにシューシューと音を出す
+fizzle out
+出だしはよかったが途中で失敗する(come to nothing)
+fjord
+フィヨルド=fiord
+fl
+fleeの過去分詞形
+fl.
+floor,(建物)階,fluid,流動体
+flabbergast
+(人を)びっくり仰天させる,(受身)にめんくらう
+flabbergasted
+面食らわせる
+flaccid
+たるんだ,だらけた,弛緩した,弛緩性の,ゆるんだ
+flack
+不平,批判,意義,苦情
+flacon
+《仏語》(香水などの)小瓶
+flag
+旗で信号する,しおれる,衰える,薄らぐ,(名)旗,旗を立てる,止める
+flag register
+=instruction pointer
+flagellant
+むち打つ人(宗教上の修業)(性的倒錯者)
+flagellate
+むちで打つ,難詰する
+flagellation
+むち打ち
+flagging
+たれ下がる,だれぎみの,減少ぎみ,敷石舗装
+flagitious
+極悪非道の,凶悪な,破廉恥な
+flagon
+細口瓶,大型のだるま瓶
+flagrancy
+悪名,極悪
+flagrant
+言語道断の,極悪の,目に余る,はなはだしい,紛れもない,名うての
+flagrant crime
+大罪
+flagrante delicto
+現行犯で (while the crim is blazing)
+flagrantly
+flagrantの副詞
+flagship
+旗艦
+flagstone
+敷石
+flail
+殻竿(で打つ),からざお
+flair
+鋭い勘,傾向,才能,直感力,ひらめき,第六感,直観的識別力,嗅覚,ものをかぎつける勘,識別力,素質
+flair for business
+(a ～)商売の勘
+flak
+対空砲,対空射撃,矢継ぎ早の批難
+flak-jacket
+防弾チョッキ
+flake
+1.ほぐす,2.薄片,一片,薄片
+flakey
+ひどく変わった
+flaky
+ひどく変わった
+flambe
+《仏語》[形]<料理>ブランデーなどをかけ火をつけた
+flambeau
+たいまつ,大燭台
+flamboyance
+華麗さ,けばけばしさ
+flamboyant
+色鮮やかな,炎の様な,燃えるような,けばけばしい,どぎつい,派手な
+flame
+光彩,炎,情熱,火炎,光輝,激情,輝く,赤くなる
+flamenco
+フラメンコ
+flaming
+燃立つ,熱烈な
+flamingo
+フラミンゴ
+flammability limit
+可燃限界
+flammable
+可燃性の,可燃性の高い,燃えやすい
+flammable limit
+引火限界,引火性限界
+flan
+フラン(チーズ･クリームまたは果実などを詰めたtartの類の菓子･スペイン料理では甘味をつけたエッグカスタード)
+flange
+フランジ,輪縁
+flank
+(～の)側面に位置する,(～の)側面[両側]に置く,横腹,脇腹,わき腹,側面(に立つ),側面に立つ,側面を守る,わき腹肉の切り身
+flannel
+フランネル(製の)
+flannel-mouthed
+口先のうまい
+flannelette
+綿ネル
+flannelly
+フランネル(製)の,(声が)はっきりしない
+flannels
+フランネルの布,フランネル製品(肌着･ズボン)
+flap
+ぴしっとたたく,ひらひらする,はためく,羽ばたく,はためかせる,平手うち,興奮状態,騒動,フラップ,ばたつかせる,翻る
+flare
+ゆらゆら燃える,かっと怒り出す,ゆらめき,ゆらめく,めらめらと燃える,パッと燃え上がる,閃光信号,揺らめく炎,かっとなる,すそを広げる
+flare up
+ぱっと燃え上がる
+flare-up
+突然燃え上がること,(感情の)爆発
+flash
+フラッシュ,ぴかっと光る,さっと通る,(考えなどが)浮かぶ,ひらめく,ニュ-ス速報,ちらっと見せる
+flash evaporation
+フラッシュ蒸発,フラッシュ蒸着法
+flash evaporator
+フラッシ･エバポレーター
+flash in the pan
+(a ～)みかけだおしの人や事柄,ほんのちょっとだけ希望を持たせて消える
+flash lamp
+【写真】フラッシュランプ,閃光電球,★flash, flash light, flashbulbとも
+flash light
+(カメラで使う)フラッシュランプ,閃光電球
+flash point
+引火点
+flash vaporization
+フラッシュ蒸留
+flashback
+後炎
+flashcube
+【写真】フラッシュキューブ,カメラで使う撮影用小型光源
+flashlight
+懐中電灯,フラッシュ
+flashtube
+【写真】閃光管
+flashy
+一時の
+flask
+フラスコ,鋳型,携帯用酒びん,首の細いびん,魔法びん
+flat
+1.平らな,平たい,フラットの,2.(価格などが)均一の,一律の,3.平地,平面,アパート,階
+flat +adv
+1.(時間などを示す語句の後に付けて)きっかり,2.きっぱりと,はっきりと,3.平らに,水平に / You can get connected in 15 minutes flat - then point and clock your way around using this easy Windows software.
+flat adverb
+【文法】単純形副詞(同じ副詞で-lyを持つものと持たないものがある時に,持たないものを言う)
+flat as a board
+板のように平坦で,起伏のない,ぺちゃんこで
+flat as a flounder
+《口語》まったく平坦で,ぺしゃんこに,平べったい
+flat as a pancake
+まったく平らで,ぺちゃんこで,平べったで(quite flat),《口語》ホットケーキのように平らな
+flat as a person's hand
+ほんとに何もなくて,平たくて
+flat as flounder
+平べったい(very flat)
+flat broke, be
+一文無しで(completely broke),無一文で,すってんてんで,すっからかんで
+flat head screw
+さら頭ネジ
+flat out
+疲れ切って
+flat-out
+はっきりと,つつみ隠さず,正直に
+flatfish
+ヒラメ,カレイ等
+flatfoot
+扁平足
+flatly
+水平に
+flatten
+たいらになる,打ちひしぐ,平らにする,平らになる
+flatter
+にへつらう,喜ばせる,おせじを言う,にこびる,おべっかを使う,を得意がらせる,を嬉しがらせる,お世辞を言う
+flatter oneself that
+うぬぼれて～だと思う
+flatterer
+おべっか使い
+flatteringly
+へつらいの,お世辞の,実物よりよく見せる
+flattery
+おせじ
+flattop
+《俗語》航空母艦
+flatulence
+ガスで腹の張った
+flatulent
+空疎な,慢心した
+flatware
+洋食器
+flaunt
+みえを張る,誇示,(旗など)が翻る,得々と練り歩く,見せびらかす(show off),ひけらかす
+flaunt one's riches
+富を誇示する
+flautist
+笛吹き
+flavor
+風味,趣き,味,趣,持ち味,特質,味を付ける
+flavor-tight pouch
+風味を逃さない袋
+flavoring
+味をつける,味付け
+flavour
+風味(をそえる),芳香
+flaw
+割れ目,欠点,傷,ひび,きず,弱点,欠陥,不備
+flaw in one's character
+性格上の欠点
+flawless
+傷のない,無きずの
+flax
+亜麻,亜麻色
+flaxen
+亜麻の,亜麻製の,亜麻のような,亜麻色の
+flay
+剥ぐ,(見出語)こきおろす
+flea
+【虫】ノミ,蚤のように跳ぶ小虫,《俗語》くだらない奴,こうるさい奴
+flea market
+蚤の市,古物市
+fleabag
+《米》(軽べつ的)安宿,ぼろ下宿屋,みすぼらしい公共の建物
+fleck
+(色などの)斑点,そばかす,(動)斑点をつける
+fleck of ~
+(a ～)少量の～,ほんの少しの～ / There is not a fleck of dust. 塵ひとつない｡
+flection
+【文法】語尾変化
+fled
+fleeの過去･過去分詞形
+fledge
+羽毛でおおう
+fledged
+羽の生えそろった
+fledgling
+創業まもない企業
+flee
+消え失せる,退散する,逃げる,消える,(人･場所)から逃げる,～を捨てる,なくなる,逃亡する
+fleece
+一匹分の羊毛,羊の毛
+fleecy
+羊毛のような,羊毛の,羊毛でできた
+fleecy clouds
+【気象】綿のような雲
+fleet
+速く過ぎてゆく,艦隊,海軍,船隊,速い,入江,入江･･,編隊
+fleet admiral
+海軍元帥
+fleet as a deer
+鹿のように駿足で/快速な,足の早い
+fleet as deer
+鹿のように駿足で,足の早い
+fleet ballistic missile
+艦隊型弾道ミサイル;略:FBM
+fleeting
+速く過ぎてゆく,一瞬の
+fleeting happiness
+束の間の幸福
+flesh
+激励する,肥やす,肉,身,贅肉,食用肉,肉体,人類,生物,肌,果肉
+flesh color
+肌色,★人種によって肌色は違うことに注意
+flesh-colored
+肌色の
+fleshy
+肥満の
+fleur-de-lis
+《仏語》<植>イチハツ(の花);(フランス王室の)ユリの紋章
+flew
+flyの過去形
+flex
+1.<関節などを>曲げる,2.電線,コード(electric cord)
+flex one's muscles
+腕だめしをする,力を示す
+flexibility
+柔軟性,屈折率
+flexible
+まがりやすい,柔軟な,曲げやすい,しなやかな,融通が効く
+flexible cord
+コード,例えば電源コードのプラグを除いた部分を特に指したいときに使う
+flexible manufacturing system
+多品種中小量生産システム;略:FMS
+flexitime
+《主に英》フレックスタイム,=flextime
+flextime
+フレックスタイム
+flick
+軽く打つこと,映画,はじき飛ばす,軽くたたく
+flicker
+点滅ライト,点滅する,ゆらめく
+flickers
+《俗語》映画
+flied
+flyの過去･過去分詞形
+flier
+=flyer,1.(翼で)空を飛ぶもの,2.旅客機の乗客(特に定期利用者),3.ちらし,ビラ
+flight
+フライト,逃亡,飛行,階段,逃避,便
+flight attendant
+(旅客機の)客室乗務員(cabin attendant)
+flight control
+航空[飛行]管制,運行管理
+flight control system
+飛行操縦システム;略:FCS
+flight data recorder
+飛行記録装置;略:FDR
+flight date
+(飛行機の)出発日
+flight information region
+飛行情報区;略:FIR
+flight number
+フライト番号,便名
+flightless
+飛べない
+flighty
+軽はずみな,気まぐれな
+flim-flammer
+ペテン師
+flimflam
+1.《米会話》ごまかす(trick) ,だます,ぺてんにかける,2.でたらめ,たわごと,ごまかし
+flimsy
+薄っぺらな,もろい,複写紙
+flinch
+1.しりごみする,たじろぎ,ひるむ,2.しりごみ
+fling
+1.力を入れて言う,ほうり出す,投げつける,相手を投げ倒す,立ち去らせる,軍隊を投入する,突進する,飛び掛かる,急いで去る,拒絶する,投げ飛ばす,2.道楽
+flint
+非常に堅い物,ライターの石
+flip
+はじく cf. flipper(アザラシ等の)ひれ足,軽く打つ,弾く,ポンと打つ,宙返り,はじく ひれ足,ひっくり返す
+flip one's wig
+かぶっていたカツラ(wig)をふっとばすほどカッとなる,興奮して自制を失う
+flip one's wig [lid]
+かぶっていたカツラ(wig)をふっとばすほどカッとなる,興奮して自制を失う
+flip out
+大喜びする,興奮する,気が変になる,頭がへんになる
+flip out [over]
+大喜びする,興奮する,気が変になる,頭がへんになる
+flip over
+さっとひっくりかえる･かえす
+flip side
+裏面,B面
+flip side to the coin
+コインの裏側
+flip-flop
+急変する,態度を変える,政策･態度の突然の変更
+flip-open
+ひっくり返して開く
+flippancy
+軽薄,浮薄,軽薄な言葉[行為]
+flippant
+軽率な,軽薄な,軽々しい,生意気な
+flipper
+水かき
+flippers
+(スキンダイビング用の)足ひれ
+flirt
+1.もてあそぶ,いちゃつく,異性に対して面白半分に気を引く,2.浮気者
+flirt with ~
+～といちゃつく,～をもてあそぶ
+flirtation
+(男女の)ふざけ,いちゃつき,浮気
+flirtatious
+いちゃついた,浮気な,浮ついた
+flit
+かろやかに飛ぶ,ひらひら飛回る
+flit through
+すばやくかすめる
+float
+浮くもの,浮かぶ,浮く,浮かべる,準備金,変動相場制,さまよう
+floating
+浮いている,浮遊した
+floating cloud
+【気象】浮き雲
+floating exchange rate system
+【経済】変動為替相場制,★⇔fixed exchange rate system(固定為替相場制)
+floating point number
+浮動少数点数
+floating rate
+自由変動相場,変動利率
+floating stock
+浮動株
+floatplane
+フロート付き水上飛行機
+flock
+ヤギの群れ,群集,信徒,人の群れ,一群,一団,大勢の人,集まる,群がる,群れ
+floe
+浮氷(floating ice)
+flog
+むち打つ,なくす
+flog ~ to death
+しつこく繰り返してうんざりさせる
+flogging
+鞭打ち
+flood
+おびただしい流入,洪水,氾濫する,大水,氾濫,にあふれる,に水を張る,殺到(する),出水する,水浸しにする
+flood into ~
+～に殺到する
+floodgate
+防潮門
+flooding
+はんらんさせる
+floodlight
+溢光
+floor
+立会所,床,底,(建物の)階,議員席,床を張る
+floor leader
+(米上下両院の)院内総務
+floor price
+=minimum price,最低価格,★⇔ceiling price(最高価格)
+floor space
+据付面積
+floor technician
+【放送】フロアで働く技士;略:FT
+floorboard
+床板
+floorman
+(百貨店などの)案内係
+floorwalker
+(百貨店などの)案内係
+floozie
+《俗語》自堕落女
+flop
+ばったりと倒れる,どさりと落す,ばたばた動く,どさりと落ちる
+flop about
+バタバタと歩き回る
+flop down a bag
+袋をドサツと投げ落とす
+flophouse
+ドヤ街
+floppy
+だらりと垂れた,弱い
+floppy disk
+フロッピーディスク;略:FD
+floppy disk drive
+フロッピーディスク ドライブ;略:FDD
+flora
+植物相
+floral
+花の
+florid
+血色のよい,赤らんだ,桜色の,健康な
+florilegia
+florilegiumの複数形
+florilegium
+名詩選,詞華集(anthology),花譜
+florist
+花屋の人
+flossy
+繭綿のような,ふわふわした
+flotation block
+浮遊滑車
+flotilla
+小艦隊,小型船隊
+flotsam
+難破船の漂流物,がらくた L.flottare(flood)
+flounce
+飛び出す,飛び込む
+flounder
+ヒラメ,あがき,もがく,あがく,のたうつ,もがきながら進む,じたばたして深みにはまる
+flour
+小麦粉,粉末,粉を振る
+flourish
+みせびらかし,繁栄する,華麗な身振り,見せびらかし,ファンファーレ,美辞麗句,育つ,栄える,活躍する
+flout
+嘲笑する,侮辱する,馬鹿にする
+flow
+1.流れる,あふれる,(風に)なびく,2.流れ,満ち潮
+flow chart
+フローチャート
+flow control
+フロー制御
+flow into
+に流れ込む
+flow like water
+(酒など)惜しげもなくふるまわれる
+flow of funds
+資金の流れ
+flowchart
+フローチャート
+flower
+花が咲く,栄える,花,草花,開花する,成熟する
+flower arrangement
+生け花,★日本のものはikebanaと言われるようになっている
+flowerbed
+花壇
+flowering
+花がいっぱいに咲いた,花を開く
+flowerpot
+植木ばち
+flowers start to bloom
+花が咲きはじめる
+flowery
+花の多い
+flown
+flyの過去分詞形
+flu
+インフルエンザ,流感
+fluctuate
+動揺する,変動する,揺動する,上下する
+fluctuate between hopes and fears
+一喜一憂する
+fluctuation
+変動,動揺
+flue
+引き網,煙突,排気筒
+fluency
+なだらかさ,流暢
+fluent
+ゆったりとした,流れる,流暢な,雄弁な,文章のうまい,ゆるやかな,流れるような,達者な
+fluently
+流暢に
+fluff
+1.毛羽,綿毛,2.些細な事,つまらない事,3.しくじり,へま,4.毛羽立つ,毛羽を立てる,しくじる / fluff from the teddy bear テディ=ベアの毛羽
+fluffed voice
+しわがれ声
+fluffy
+けばの,綿毛もこもこの
+fluid
+変りやすい,流動性の,流体(の),液体
+fluid equation
+流体方程式
+fluid flow
+流体の流れ
+fluid mechanics
+流体力学
+fluid theory
+流体理論
+fluke
+思わぬ幸運,まぐれ当り,まぐれ,フロック,幸運
+flummox
+まごつかせる
+flung
+flingの過去･過去分詞形
+flunk
+《米口》試験などに失敗する,落第する,単位を落とす,しくじる
+flunk out
+試験に落第する,退学になる
+fluorescent
+蛍光の,蛍光灯
+fluorescent bulb
+蛍光灯
+fluoric
+フッ素の
+fluoride
+フッ化物
+fluorine
+フッ素
+fluorocarbon
+過フッ化炭化水素
+flurry
+1.あわてさせる,2.一陣の疾風,突風,一時的な小雨[小雪],一時的混乱,通り雨 / a flurry of new product introductions (一時的な)新製品発表のラッシュ
+flush
+1.紅潮,赤面,赤らみ,輝き,はつらつさ,得意,興奮,意気揚々,(トランプの)フラッシュ,ほとばしり,出水,2.どっと流れる,ほとばしる,接触する,浪費する,3.同一平面上の,平らの,みなぎって / The sound of the toilet flushing in the bathroom distracted and aroused him. -Last Tango in Paris
+flush A out of ~
+犯人Aを～から追い出す
+flush toilet
+水洗便所
+flush value
+洗浄弁
+flushing
+顔面潮紅
+flushometer
+洗浄弁
+fluster
+騒がす
+flustration
+欲求不満
+flute
+フルートを吹く,フルート(横笛),縦みぞ,フルートで演奏する
+fluted
+(柱など)縦みぞ彫りの,(板ガラスが)みぞ付きの
+flutist
+フルート奏者
+flutter
+1.羽ばたきする,はためく,ぱたぱたする,ひらひら舞う,どきどきする,うろうろする,2.はためき,動揺,おののき,がたつき,狼狽(ろうばい)
+flutter one's eyelashes at ~
+<女性が>～にウィンクする
+fluttery
+はためく,ひらひら動く
+fluvial
+河川の,流水性の,下流の作用で出来た,川の流れに沿った
+fluviatile
+河川の,河川にできる
+fluviatile deposit
+河成層
+fluviology
+河川学
+fluviometer
+河川水量記録計
+flux
+絶え間ない変化,不安定,流れ,流量,溶剤,(理)束,磁束,電束,流動,上げ潮,絶え間のない変化,融剤
+flux and reflux
+潮の干満,盛衰
+flux capacitor
+次元転移装置(映画Back to the Futureから)
+flux density
+流束密度
+flux line
+流線
+fluxion
+流動,流出
+fluxmeter
+磁束計
+fluxoid quantum
+磁束量子
+fly
+1.飛ぶ,～を飛行機で運ぶ,逃げる,2.【虫】ハエ,【野球】フライ,3.ズボンのファスナー
+fly a kite
+1.凧をあげる,2.観測気球をあげる
+fly in the air
+空を飛ぶ
+fly in the face of ~
+～にくってかかる,衝突する
+fly off the handle
+《口》自制心を失う,かっとなる,(自制を失って)激しく怒り出す
+fly off the shelves
+飛ぶように売れる
+fly out
+飛行機で脱出する
+fly the coop
+脱獄する
+fly-by-night
+無責任な,夜逃げ型の
+flyer
+=flier,ビラ,チラシ,小冊子
+flying
+1.飛ぶこと,飛行,2.空を飛ぶ,3.飛ぶように速い,あわただしい
+flying fish
+【魚】トビウオ
+flying saucer
+空飛ぶ円盤
+flying squad
+《主に英》機動隊,特務隊,遊撃隊
+flyover
+儀礼飛行(年･広場･閲覧式場などの上を低空飛行すること),(鉄道･道路の)立体交差
+flyspeck on a mound of horseshit
+意味[価値]がない
+fm.
+fathom,尋
+foal
+【動物】馬の子,子馬,雌の子馬
+foam
+1.あわ汗を流す,泡を出す,泡を吹く,泡立つ,2.あわ消化剤,泡,あぶく,フォームラバー
+foam at the mouth
+1.(文字通り)口から泡を吹く,2.《俗語》激怒する
+fob something off on someone
+だまして(欠陥品･偽物などを)～につかませる
+fob something off on ~
+だまして(欠陥品･偽物などを)～につかませる
+focal
+焦点の(にある)
+focal hemorrhage
+限局性出血
+focal length
+【光学】焦点距離;略:FL, f.
+focal plane
+焦平面(焦点を通る光軸に垂直な面)
+focal plane shutter
+【写真】フォーカルプレーンシャッター
+focal point
+焦点
+focal ratio
+f-number,F数,Fナンバー,(レンズの明るさの表示,焦点距離を口径で割ったもの)
+foci
+focusの複数形,焦点
+focus
+1.ピント,焦点,中心,的,震源,病巣,2.焦点を合わせる,集中する,(注意などが)集まる
+focus A on ~
+(注意･質問などを)～に集中させる
+focus mode selector
+【写真】フォーカスモードセレクタ
+focus on ~
+(注意･質問などが)～に集まる / Since there were too well-coordinated to be the work of an individual, suspicions quickly focused on a group that was under the spell of a controversy-prone but charistmatic leader. -Asiaweek(March '95)
+focus setting ring
+【写真】フォーカス調節リング
+focus testing group
+メーカーが自社製品を消費者の目から評価してもらうために設置した消費者グループ
+focusing screen
+【写真】焦点板
+foe
+敵(enemy),仇,反対者,障害,対戦者,適
+fog
+1.濃霧で包む,曇らせる,混乱させる,2.当惑,霧,濃霧,煙霧,煙,ほこり,混乱
+fog light
+フォグランプ(fog lamp)
+fogbound
+濃霧で立ち往生の
+foggy
+【気象】霧がかかった,霧の深い,霧の多い,霧が掛かった
+foghorn
+霧笛
+fogy
+時代遅れの人,旧弊ながんこ者
+foible
+弱点,短所,性格の欠点
+foie gras
+《仏語》<料理>フォアグラ
+foil
+くじく,裏をかく,フルーレ,引き立て役,箔
+foist
+(偽物など)を人につかませる,押しつける,そっと挿入する,つかませる,偽って～の作だとする
+fold +n
+1.折りたたみ,折り目,スカートなどのひだ,層,しわ,2.土地･谷間などのくぼみ,【地質】地層の褶曲,3.家畜のおり,囲い,おりの中の羊の群れ,4.キリスト教会の集会,会衆
+fold +vi
+1.折り重なる,折りたためる,2.(事業などが)つぶれる,破産する,劇などが失敗する,3.《俗》へたばる,弱る,4.《米俗語》へまをする,失敗する
+fold +vt
+1.～を折る,折り重ねる,折りたたむ,折り曲げる,折り返す,翼を折りたたむ,収める,2.～を組み合わせる,3.～に巻きつける,両腕に抱く,かかえる,胸に抱き寄せる,4.包む,くるむ,まとう,おおう,5.【料理】混ぜ合わせる,6.羊を囲う,おりに入れる
+fold back ~ [~ back]
+～を折り曲げる,折り返す
+fold of a skirt
+(the ～)スカートのひだ
+fold one's hands
+両手を組み合わせる
+fold the blanket in half
+毛布を二つ折りにする
+fold the paper in quarters
+紙を四つ折りにする
+fold under pressure
+脅迫されて折れる
+fold up one's umbrella
+傘をたたむ
+fold up the blanket
+毛布をたたむ
+fold up the tent
+テントをたたむ
+fold up ~ [~ up]
+～を畳む,折り畳む
+fold ~ in
+たたみ込む
+fold ~ in high esteem
+重んじる
+fold ~ up neatly
+～をきちんと畳む
+fold-out
+折り込みページ
+foldaway
+折りたたみ式の
+folder
+書類はさみ,折りたたむ人[器具],紙ばさみ,折りたたみ印刷物,折りたたみ広告
+folding
+折りたたみの,たたみ込みの
+folding chair
+折り畳み式のいす
+foldings
+折りたたみ式のとびら,折り戸,アコーディオンドア
+foliage
+群葉,木の葉
+folk
+人々,民族の
+folk dance
+フォークダンス,民俗舞踊
+folk etymology
+民間語源(説)
+folk song
+フォークソング
+folk story
+民話
+folklore
+民話,民間伝承,民俗学,民族学
+folks
+親しい人,人々,(呼びかけとして)みなさん
+folksy
+庶民的な
+follow
+に付随する,あとに続く,従う,跡を継ぐ,理解する,～に続く,あとから続く,たどる,なる
+follow an order
+=obey an order,命令に従う
+follow from
+～から得られる
+follow one's own conscience
+自分の良心に従う
+follow out
+最後までやり抜く
+follow suit
+人のまねをする,先例に習う,真似をする
+follow the crowd
+(自分の弱さのために)大勢に従う
+follow the dictates of one's conscience
+自分の良心(の命ずるところ)に従う
+follow through with ~
+～をやり通す,やり遂げる,済ませる
+follow up with ~
+引き続いて～する
+follow-through service
+アフター･サービス
+follow-up
+追跡検査(治療)
+follower
+随行者,信奉者,信者,信徒 / a guru and his followers 教祖と信者
+following
+の直後に,次の,次のこと
+folly
+愚かさ,愚行
+foment
+(不和･反乱など)を助長する,扇動する,に湿布する,醸成する,(患部)を蒸す
+fomentation
+温湿部,助長
+fond
+愛情のこもった,好きな,好んで,優しい,盲愛の,愛情深い,甘い,浅はかな
+fond of ~, be
+～が好きである
+fondant
+《仏語》フォンダン(柔らかい糖菓)
+fondle
+かわいがる
+fondly
+優しく
+fondness
+優しさ
+fondu
+=fondue,《仏語》フォンデュ(チーズを溶かしたスイス料理)
+font
+1.洗礼盤,聖水盤,油壷,2.フォント,洗礼盤
+food
+食物,食料,食べ物
+food additive
+食品添加物
+food chain
+食物連鎖 / The sardines, which Australians call pilchards, are caught for bait, pet food and human consumption. But they are also a link in the food chain for tuna, salmon and sharks. -Newsweek(May '95)
+food engineering
+食品工学
+food poisoning
+食中毒
+food stall
+(食べ物の)屋台
+food stamp
+(政府発行の)食料割引券,米国政府が低所得者に配る食料引き換え券
+foodaholic
+いつも食べずにはいられない人
+fool
+ばか,ばか者,だます,ばかなまねをする,ふざける,ばかな
+fool around
+(異性と)遊び半分につきあう,(既婚者の場合は)浮気する,(機械などを)あれこれいじくりまわす
+fool around with ~
+(機械などを)あれこれいじくりまわす
+fool's errand
+(a ～)むだ足を踏む
+foolhardy
+無鉄砲な,向こう見ずな,無謀な
+foolish
+ばかな,おろかな,ばかげた
+foolproof
+しくじりようのない,間違えようのない,とても簡単な
+foot
+足,(単位)フィート(1フィートは約30.5cm,12inches),ふもと,韻脚,支払う
+foot fault
+(球技)フットフォールト(反則)
+foot goes to sleep
+足がしびれる
+foot the bill
+勘定(請求額)を支払う,請求書の下の方(foot)にサインをする,費用を支払う
+foot-candle
+(光)フィート燭(しよく)(照度の単位)
+foot-gear
+履き物
+foot-loose
+束縛されない,好きな所へ行けて
+foot-plate
+機関手のたつ踏み板
+footage
+1.(材木･フィルムなどの)フート単位の長さ[体積],フィート数,2.映画･テレビの特定場面
+football
+フットボール,サッカー,ボール
+footbridge
+歩行者専用橋
+footfall
+足音,足取り
+footgear
+はきもの
+foothill
+山すその丘陵
+foothold
+足場,拠点,よりどころ
+footing
+しっかりした基礎,確固たる地位,足場,加算,総計,足がかり
+footlights
+フットライト,脚光,舞台,俳優業
+footling
+つまらない,たわいない
+footloose and fancy free
+自由気ままで,独身で気楽で
+footman
+(制服の)従者
+footmark
+足跡
+footnote
+脚注,補足説明
+footpath
+(歩行者用の)小道,歩道
+footprint
+足跡
+footstep
+足音,足跡,歩幅
+footway
+《英》(車道に対する)歩道,(歩行用の)小道,★《米》=sidewalk
+footwear
+《集合的》(靴･スリッパなどの)履物
+footwork
+1.フットワーク,足さばき,2.取材活動,3.巧みな処理[処置]
+foozle
+やりそこなう,打ちそこなう
+fop
+しゃれ者,めかし屋,にやけ男,かっこをつける男
+foppish
+(男･衣服など)おしゃれな,にやけた
+for
+にとって,に向かって,の代わりに,のために,というのは
+for Pete's sake
+(強い感情を表わして)頼むから,お願いだから
+for a change
+=for changes,変化を付けて,目先を変えて
+for a change of air
+転地のために
+for a couple of hours
+二三時間
+for a good long stretch
+かなり長い間
+for a long time
+長い間
+for a long time to come
+今後ずっと
+for a price
+高い値段で
+for a rainy day
+まさかのときのために,(金銭面で)悪い日に備えて,もしかの時に備えて
+for a song
+二束三文で
+for a start
+手始めに
+for a starter
+手始めに
+for a time
+一時
+for a walk
+散歩に
+for a while
+しばらく
+for about three years
+約三年間
+for account of ~
+の費用持ちで
+for ages
+長いこと
+for all
+にもかかわらず
+for all I know
+たぶん
+for all one is worth
+全力を尽くして
+for all practical purposes
+事実上
+for all that
+それにもかかわらず
+for all the world
+どうしても
+for centuries
+何世紀もの間
+for certain
+確かに
+for conscience' sake
+気がとがめて
+for crying out loud
+後生だから,お願いだから
+for early a month
+おおかた1ヶ月
+for ever
+永久に
+for example
+例えば
+for fear A may B
+AがBしないように
+for fear of ~
+～を恐れて
+for fear that ~
+～を恐れて
+for five days running
+五日続けて
+for fun
+面白半分に
+for good
+永久に,ずっと / What most ordinary Japanese fear is that the safe society they thought was their birthright is gone for good. -Newsweek
+for good and all
+永久に
+for good measure
+余分に
+for good or evil
+よかれあしかれ
+for himself
+独力で
+for his life
+必死に
+for instance
+例として,たとえば
+for kicks
+楽しむために,憂さ晴らしに
+for lack of ~
+の不足のため
+for many years
+何年も
+for moment
+ちょっとの間
+for my part
+私としては
+for nothing
+ただで,(否定文で)無駄に,いたずらに,悪戯に,いわれなく,無料で
+for now
+今のところ
+for once
+今度だけは
+for one's age
+年の割には
+for one's life
+必死に
+for one's own good
+本人のために
+for one's part
+としては
+for oneself
+(自分のためになるように)独力で
+for openers
+手始めに
+for reasons of ~
+～の理由で
+for rent
+借用できる
+for sale
+売り物の
+for several years
+数年
+for size
+試しに
+for some days
+数日間
+for some reason or other
+どうしたわけか,何かの理由で
+for some time
+しばらく
+for some time to come
+ここしばらく
+for starters
+=as a starter,手始めに,まず手始めに
+for sure
+確実に,きっと
+for the answer
+答えとして
+for the benefit of ~
+人の(利益)のため,人の(利益の)ために
+for the first time
+最初に,初めて
+for the first time in history
+歴史上初めて / In the 1980s, for the first time in history, U.S. trade across the Pacific is greater than U.S. trade across the Atlantic.
+for the good of ~
+のために
+for the hell of it
+(infml) just for fun and for no other reason They live in New York, and they just keep the place for the hell of it.
+for the last time
+最後で
+for the life of one
+《会話》(否定文)どうしても～ない
+for the matter of that
+そういう事なら,更に言えば,それに関する限りでは
+for the moment
+さしあたり,当座は,今のところは
+for the most part
+大部分は
+for the past [last] few years
+ここ数年
+for the past few week
+この数週間
+for the present
+今のところ,当分の間
+for the purpose of ~ing
+～する目的のために
+for the record
+記録のために
+for the rest
+その他は,あとは
+for the sake of ~
+～のために
+for the time being
+当分の間,当分,さしあたり
+for the years to come
+これから先
+for the ~ing
+～しさえすれば
+for this end
+この目的のために
+for this once
+今度だけは
+for three years
+三年間
+for two nights
+二晩
+for want of ~
+の不足のため
+for years
+長年の間,何年もの間
+for your Information
+参考までに;略:FYI
+for ~ files
+控えとして
+for ~ hours
+～時間
+for ~ purpose
+～目的のために
+forage
+食糧を徴発する,飼料,飼い葉,餌あさり
+forager
+食糧徴発隊
+foray
+略奪を目的として侵略する,略奪する
+forbad
+forbidの過去形,★forbadeとも
+forbade
+forbidの過去形
+forbear
+差し控える,我慢する
+forbearance
+辛抱,自制
+forbid
+～することを許さない,妨げる,を禁じる,を差し止める,禁じる
+forbidden
+forbidの過去分詞形(forbid, forbad or forbade, borbidden)
+forbidden band
+禁止帯
+forbidden fruit
+【聖書】禁断の木の実･快楽
+forbidding
+禁じる,いやな,近づきがたい,不気味な,ものすごい,こわい
+forbore
+慎しんだ(む),こらえた
+forborne
+慎しんだ(む),こらえた
+force
+1.余儀なくさせる,強いる,無理にさせる,強制する,封殺する,2.部隊,力,勢い,勢力,腕力,影響力,暴力,武力,実施,施行,主旨,軍隊
+force a note of cheerfulness into one's voice
+(本当は沈んでいるんだけど)わざとはしゃいだ声で言う
+force de frappe
+核武装軍
+force majeure
+(法律:契約義務が免除される)不可抗力,(強国が弱国に加える)強迫
+force of habit
+習慣の力,慣性
+force ~ down one's throat
+(考え･意見など)を人に押しつける
+force ~ down sb's throat
+～(考え･意見など)を人に押しつける
+force ~ out of work
+～を失業させる
+force ~ to make a move
+～に腰を上げさせる
+force ～to make a move
+～に腰を上げさせる
+forced
+無理に作った,強制的な,強いられた,こじつけた,見せかけの,取り繕った
+forced circulation evaporator
+強制循環型蒸発缶
+forced expiratory volume in one second
+努力性呼気1秒量;略:FEV1
+forced landing
+不時着陸
+forced to ~, be
+～せざるをえない,～を強制される
+forced ventilation
+強制換気
+forced vital capacity
+努力肺活量;略:FVC
+forceful
+力のある,力強い
+forceps
+ピンセット
+forces of nature
+天災
+forcible
+強制的な,強力な
+forcible execution
+強制執行
+forcibly
+強制的に
+forcibly stop people from talking about their points of view
+意見表明の自由を強制的に奪う
+ford
+(川などの)浅瀬,歩いてわたれる部分
+fore
+全面
+forebode
+の前兆となる
+foreboding
+の前兆となる,前兆となる
+forecast
+1.【気象】予報,天気を予報する,2.予想する,前兆を示す,予定する,予測(する)
+forecast a thaw
+国際関係などの)雪解け(緊張緩和)の兆しを見せる
+forecast the weather
+【気象】天気を予報する
+forecasted
+予想した
+foreclose
+1.【法律】担保権を行使する,抵当物を流す,2.除外する,排除する,締め出す / It's tough for the Japanese banks to foreclose on properties and sell collateral on bad loans.
+forefather
+祖先(ancestor)
+forefathers
+祖先
+forefinger
+人差し指
+forego
+先立つ,無しで済ます
+foregoing
+先の(preceding, that came before),前述の
+foregone
+foregoの過去分詞形
+foreground
+(風景･絵画の)前景,最前面,表面,最も目立つ位置
+forehead
+額(ひたい),前面,前部
+foreign
+外国の,(自分たちとはなじまない)よそ者の,なじまない,異質の,無関係の,異物の
+foreign affairs
+外交問題,外務(行政)
+foreign aid
+対外援助
+foreign book
+洋書
+foreign capital
+外資
+foreign celebrity
+外タレ
+foreign currency
+外貨
+foreign exchange
+外国為替
+foreign minister
+(通例 F～ M～)外務大臣,外相
+foreign news
+海外ニュース
+foreign reserves
+外貨準備
+foreign secretary
+《主に英》外務大臣
+foreign service officer
+(米国国防省の)海外勤務職員;略:FSO
+foreign star
+外タレ
+foreign trade
+(外国)貿易
+foreign-exchange gain
+為替差益,★⇔foreign-exchange loss(為替差損)
+foreign-exchange loss
+為替差損
+foreigner
+舶来品,外国人,外人
+forein-affiliated company
+外資企業
+foreman
+作業長,職長,現場主任,現場監督者,【法】陪審長
+foremost
+まっさきの,真っ先の,一番の,一流の,第一の,真っ先に
+forensic
+法廷の,法廷で用いる,弁論の,討論の(polemic)
+forensic medicine
+法医学
+foreordain
+予め～の運命を定める
+foresaw
+foreseeの過去形
+foresee
+予見する,予知する
+foreseeable
+予知できる
+foreseen
+forseeの過去分詞形
+foreshadow
+(将来の事などを)あらかじめ示す,予示する,(～の)前兆となる
+foresight
+先見,先見の明
+forest
+森林,植林する
+forest green
+深緑色(濃い緑色)
+forestall
+だしぬく,先んずる,制する,未然に防ぐ
+forestry
+林学,林業
+forestry department
+山林部
+foretaste
+当て込み,予測,予想,前触れ,予知,(将来の苦楽を)前もって味わうこと,予期
+foretell
+予言する
+forethought
+(将来に備える)深慮
+foretold
+予言した
+forever
+永久に,永遠に,いつも
+forever and ever
+永遠に(forever の強調(emphasis))
+forewent
+foregoの過去形
+forex
+外国為替
+forfeit
+没収される,放棄する,喪失する,没収物,罰金,科料,違約金,追徴金,権利を失う,剥奪される,奪われる,没収されている
+forfeited game
+(野球の)没収試合,放棄試合
+forgave
+forgiveの過去形
+forge
+溶鉄炉,鍛冶工場,案出する,創り出す,～を形作る,無理やり作る
+forge ahead
+漸進する,先に進む
+forger
+偽造者,鍛冶工
+forgery
+偽造
+forget
+忘れる,見落す
+forget to
+することを忘れる
+forget ~ing
+(過去に～したことを)忘れる
+forget-me-not
+わすれなぐさ
+forgetful
+忘れやすい
+forging
+鍛造
+forgive
+借金を帳消しにする,許す,人を許す,罪を容赦する,勘弁する
+forgiven
+forgiveの過去分詞形(forgive, forgave, gorgiven)
+forgiveness
+容赦
+forgiving
+許す,寛大な
+forgo
+～なしで済ませる
+forgone
+なしで済ませた
+forgot
+forgetの過去形
+forgotten
+forgetの過去分詞形
+forint
+フォリント(ハンガリーの通貨単位)
+fork
+フォーク,分岐点,かき上げる,立食式の
+fork out
+(金などを)しぶしぶ手渡す,支払う(over,up)
+fork over
+(金銭を)手渡す,差し出す
+fork over (up)
+Chip in; contribute; "Give" me, used especially when demanding something the other person is reluctant to give:(金を)払う,手渡す
+forked
+またに分かれた,また状の,ジグザグの,(古)不誠実な,どちらとも取れる
+forked tongue
+(a ～)二枚舌
+forklift
+フォークリフト,フォークリフトで運ぶ
+forklift truck
+=forklift,フォークリフト
+forlorn
+見捨てられた,捨てられた,見放された,みじめな,絶望した,孤独な,よるべのない,(文語)絶望的な,わびしく,孤独の,さびしい,惨めな,みすぼらしい
+forlornly
+forlornの副詞形
+form
+(スポーツ選手などの体の)調子,体調,形,外観,形状,成形,姿,形式,形づくる,方法,やり方,形態,用紙,形になる,形作る,形成する
+form a Cabinet
+組閣する,内閣をつくる
+form feed
+改ページ;略:FF
+form into line
+整列する
+form line
+横隊を作る
+form the attatchments
+一致団結する
+form-feed
+改ページ
+formal
+1.公式の,形の,正式の,形式的な,改まった,堅苦しい,表向きの,2.夜会服
+formalism
+(数学)形式主義,数学(論理)学的形式,虚礼,極端な形式主義
+formality
+1.形式的なこと,手続き,儀礼的行為,形式的手続き,厳格な規則,2.形式的であること,堅苦しさ,几帳面さ / The Royal Assent is a formality: no sovereign has refused a bill since 1707. (Royal Assentというのは｢国王の裁可｣の意味) -Britain Explored
+formally
+改めて,正式に
+format
+型,構成,判型,体裁,書式,形式
+format of bills for internatioanl telecommunications
+(the ～)国際通信料金請求書
+formate
+<飛行機が>編隊を組む,編隊に加わる
+formation
+形成,編隊,～物,～体
+formative
+造形の,形を与える,形成の / a formative period 形成期,成長期
+formative art
+造形美術
+former
+1.かつての,元の,前の,先の,2.前者,以前の
+former Soviet Union
+(the ～)旧ソ連
+former state
+(a ～)元の状態
+former ~
+前~ / former Prime Minister Morihiro Hosokawa 前首相の細川護熙
+formerly
+以前は
+formidable
+なまなかでない,圧迫感がある,手ごわい
+formidably
+恐ろしく
+forming property
+加工性
+formula
+公式,方式,決まったやり方
+formula of de Moivre
+ド･モアブルの公式
+formulae
+formulaの複数形
+formulate
+定式化[公式化]する,明確に述べる(put ~ into definition form)
+formulation
+公式化,系統だった記述
+fornicate
+私通する
+fornication
+私通,密通,姦淫
+forsake
+習慣をやめる,捨てる,を見捨てる,を捨てさる,を放棄する,やめる
+forsaken
+forsakeの過去分詞形
+forsook
+forsakeの過去形
+forsterite
+苦土橄欖石
+forswear
+誓ってやめる
+fort
+とりで,交易市場,要塞,砦
+forte
+強み,長所,得手,おはこ
+forth
+前方へ,～以後,先へ,外部へ,以来
+forthcoming
+近くにやってくる(coming forth),すぐ手に入る,前向きの,積極的な,近刊予定の
+forthcoming week
+(the ～)次週
+forthright
+率直な,率直に
+forthwith
+ただちに
+fortieth
+40分の1,第40
+fortification
+防御
+fortify
+の防衛を強化する,栄養化を高める,固める,を砦で囲む,を元気づける,を強固にする,要塞化する,防備を固める
+fortissimo
+フォルティッシモ,きわめて強い[強く]
+fortitude
+勇気,不屈
+fortnight
+2週間
+fortnightly
+2週間ごとの
+fortress
+安全地域,要塞,要塞地,大規模な要塞,とりで
+fortuitous
+偶然の,思いがけない,幸運な,ぎょうこうの
+fortuitous acquaintance
+(an ～)偶然の知り合い
+fortuity
+偶然･偶発的な出来事
+fortunate
+幸せな,幸運な,運の良い
+fortunately
+運よく,幸運にも
+fortune
+社会的地位,富,財産,運,運勢,運命,幸運
+fortune-teller
+占い師
+fortune-telling booth
+易者が占いをする小屋
+forty
+40
+forum
+評議会,大広場,フォーラム,公開討論の場
+forum for debate
+討論の場
+forum shopping
+《俗語》担当事件を有利に展開させるために裁判所を選ぶこと
+forward
+1.前方へ,前向きの,先へ,2.でしゃばりの,差し出がましい,3.急進的な,4.転送する,進める
+forward air controller
+前偵察機;略:FAC
+forward contract
+先物予約
+forward delivery
+先渡し
+forward elimination
+前進消去
+forward floating depot
+前線洋上兵站艦;略:FFD
+forward looking infrared radar
+赤外線前方監視装置;略:FLIR
+forward march
+前進行軍
+forward rate
+先物相場
+forward reasoning
+前向き推論
+forward-based system
+前線(基地)防衛体制;略:FBS
+forward-looking
+前向きの,先行きを見据えた
+forward-thinking
+<人が>将来を考えている,進歩的な,先見の明がある
+forwent
+控える,なしで済ませた
+fossil
+化石,化石の,石化した
+fossil fuel
+発掘燃料
+fossil fuels
+石炭,石油などの化石燃料
+fossilology
+化石学
+foster
+1.養い育てる,育てる,助成する,育成する,2.心に抱く,呼び起こす,養う,3.肉親同様の / Such unkindness to deviance is true even of postwar democratic Japan, when a powerful bureaucracy fostered a population of unquestioning "economic animal." -Newsweek(May '95)
+foster grandmother
+養祖母
+foster mother
+義母,養母
+foster parents
+養父母
+fought
+fightの過去･過去分詞形
+foul
+むかつくような,くさい,よごれている,不潔な,汚らしい,粗末な,ひどい,下品な,を汚す,を不潔にする,名誉を汚す,反則,ファウル
+foul play
+反則(⇔fair play) ,不正行為,3.殺人
+foul up
+混乱させる,めちゃめちゃにする
+foulard
+《仏語》フラール(柔らかい薄絹),フラール製ハンカチ
+found
+設立する,基礎づける
+found +1
+findの過去･過去分詞形
+foundation
+1.財団法人,2.土台,3.(国家の)建設,土台,基盤,財団,創設
+foundational juridical person
+財団法人
+founder
+倒れさせる,浸水する,失敗する,創立者,つぶれる,ひどい目に会う
+foundry pig iron
+鋳物用銑
+foundry sand
+鋳物砂
+fountain
+泉,噴水
+fountain pen
+万年筆
+fountain-pen
+万年筆
+four
+4
+four abreast
+4列縦隊で
+four in five
+"80%"の別の言い方
+four of five
+"80%"の別の言い方
+four out of five
+"80%"の別の言い方
+four walls
+(部屋の)四方の壁,room or office.
+four(4)-wheel drive,
+四輪駆動;略:4WD
+four-acceleration
+四元加速度
+four-bagger
+ホームラン
+four-door
+【車】4ドア
+four-lane highway
+4車線高速道路
+four-letter word
+禁句(英語では,汚い言葉,みだらな言葉の多くが4文字でできているため)
+four-momentum
+4元運動量
+four-position
+4つの位置をもつ
+four-vector
+四元ベクトル
+four-wheel drive
+【自動車】4輪駆動の;略:FWD, 4WD
+fourier transform
+フーリエ変換
+fours elements
+(the ～)四大基本要素
+foursome
+四人
+foursquare
+正方形の,四角な,堅固な,しっかりした,堅実な,率直な,無遠慮な
+fourteen
+14
+fourth
+第4,第四の,第四に
+fourth quarter of a year
+(the ～)第4四半期
+foward-looking
+将来のことを考えての,先見の明がある
+fowl
+【鳥】ニワトリ,鶏
+fox
+1.【動物】キツネ,狐,狡猾な人,2.美人,めちゃくちゃ美人,very attractive person
+fox in a lamb's skin
+ねこかぶり,偽善者
+fox-trot
+フォックストロット
+foxglove
+【植物】キツネノテブクロ,ジギタリス(digitalis)
+foxy
+ずるい,こうかつな
+foyer
+《仏語》(劇場･ホテルなどの)遊歩廊,休憩室,ロビー,ホワイエ,玄関の広間
+fr.
+franc,フラン
+fracas
+けんか,騒ぎ,どなり合い,けんか騒ぎ
+fractal
+(幾何)フラクタル,次元分裂図形
+fraction
+ほんの少し,分画,分数,比,割合,一部分,有理数,端数,破片,断片
+fraction absorbed
+吸収率
+fraction of ~
+(a ～)ほんの少しの～,わずかの～,～のほんの一部で
+fraction reflected
+反射率
+fraction transmitted
+透過率
+fractional
+分数の,断片の,断片的な,微小な
+fractional deviation
+偏差比
+fractional fluctuation
+揺らぎの割合
+fractional length
+部分的な長さ
+fractional share
+1株未満株
+fractionally
+少し
+fractious
+おこりっぽい,怒りっぽい,気むずかしい,手に負えない,面倒を起こす
+fracture
+骨折する,骨折,破砕する,割れ,砕け,破砕(する),破る,砕ける,折る
+fragile
+1.壊れやすい,割れやすい,もろい,か弱い,はかない,軽い,2.つかの間の,3.体質が弱い,壊れやすい
+fragment
+破片,断片,かけら,小部分,断章,粉砕する,崩壊する
+fragmentary
+断片的な,破片の
+fragmentation
+分解,細分化
+fragrance
+芳香,香りのよさ,良い香り,香水
+fragrant
+においのよい,芳香性の
+frail
+こわれやすい,脆い,虚弱な,か弱い,意志薄弱な,はかない,体が弱い,誘惑にかかりやすい,もろい,脆弱な
+frail limbs
+きゃしゃな手足
+frailty
+弱さ
+frame
+フレーム,一こま,体格,わなにはめる,述べる
+frame house
+(木材の枠組みによる)木造家屋
+frame of mind
+(a ～)気分
+frame of reference
+(a ～)1.物事を明確に評価･判断するときの基準となるもの,2.基準系(reference frame),★複数形はframes of reference
+frame up
+【俗語】でっちあげる
+framework
+骨組み,枠組
+franc
+フラン(フランスなどの通貨単位)
+franchise
+1.～に特権を与える,～手販売権を与える,2.フランチャイズ,特権,参政権,選挙権,公民権,市民権,会員権
+franchise chain
+フランチャイズチェーン;略:FC
+frangible
+壊れやすい,折れやすい,もろい
+franglais
+《仏語》英語からの借用語まじりのフランス語
+frank
+あからさまな,無料送達する,率直な,公然の,料金別納表示をする
+frankly
+率直に,率直に言えば
+frankly speaking
+率直に言えば
+frantic
+気違いじみた,狂気じめた,半狂乱の,死にものぐるいの,狂乱した,熱狂した
+frantically
+狂気のように,熱狂して
+frappe
+《仏語》(氷で)冷やした,フラッペ(冷凍果汁,リキュールをかけたかき氷)
+fraternal
+友愛の,兄弟の
+fraternal love
+兄弟愛
+fraternal twins
+二卵性双生児
+fraternity
+同業者仲間,共済組合,友愛会,友愛団体,友愛,兄弟愛
+fraternize
+兄弟のように親しく交わる,友達･兄弟のように親しく交際する
+fratricidal
+兄弟[姉妹]殺しの,兄弟,[同胞]相争う
+fratricide
+【殺人】兄弟(姉妹)殺し,同胞殺し
+fraud
+詐欺行為,欺瞞,詐欺,ごまかし,ぺてん,詐欺師,欺瞞に満ちた人,ぺてん師
+fraud squad
+詐欺調査班
+fraudulence
+不正
+fraudulent
+詐欺の,不正の
+fraudulent accounts
+=rigged accounts,粉飾決算
+fraught
+伴った,充満した,伴う,悲惨な,悩んでいる
+fray
+1.争い,論争,2.擦り切らせる,擦り切れる
+frazzle
+(布などを)(ぼろぼろに)すり切らす,(人を)疲れさせる
+freak
+1.～気違い(～が大好きな人),奇人,変人,2.Spaz out; get very upset,3.異常な,珍しい,4.奇形,変種,気まぐれ,奇形,～気違い(～が大好きな人),ファン,変わった出来事,興奮させる,興奮する
+freak out
+(幻覚剤を飲んで)異常な行動をとる,(幻覚剤を飲んで)現実･社会から逃避する異常に興奮させる,薬物の影響で(でもあるかのように)奇妙な行動をする
+freakish
+気まぐれな
+freaky
+気まぐれな
+freckle
+そばかす
+free
+～のない,自由に,ひまな,無料の,解放する,フリーの,暇な,ゆるく
+free Yen account
+【経済】自由円預金
+free alongside ship
+船側渡し条件;略:FAS
+free and easy
+自由気ままな
+free as a bird
+鳥のように自由で,行動に制限がない,身軽で,非常に自由で,何の制約もなくて,義務もなくて,どこでも行ける
+free as air
+空気のようにまったく自由で,身軽で
+free as air [the air]
+非常に自由で,何の制約もなくて,義務もなくて,どこでも行ける
+free as bird
+鳥のように自由で
+free as the air
+空気のようにまったく自由で,身軽で
+free as the wind
+非常に自由で,何の制約もなくて,義務もなくて,どこでも行ける
+free base
+フリーベース(通常エーテルによる処理で純度を高めたコカイン･加熱して出る蒸気を吸入する麻薬)
+free enterprise system
+自由企業制
+free from ~, be
+～がない
+free hand
+フリー･ハンド,行動の自由,自由裁量
+free lance
+自由契約の作家,フリーランサー,(中世の)野武士,自由騎士
+free lance newscaster
+=popular newscaster,タレント･アナ
+free market
+自由市場
+free of all average
+(海上保険)全損のみ負担;略:FAA
+free of charge
+【商業】無料;略:F.O.C.
+free of interest
+無利子;略:FOI
+free of ~, be
+～を免ぜられている
+free on board
+本船積込み渡し;略:FOB
+free on rail
+貨車渡し;略:FOR
+free port
+自由港
+free sex
+無料の性行為
+free software
+=freeware,フリーソフトウェア;略:FSW
+free ticket
+無料航空券
+free to ~, be
+自由に～できる,自由に～してよい / According to his philosophy, members of the elite class were free to engage in any illegal activity, including even homicide. -手塚治虫さんの｢罪と罰｣の前書き
+free trade
+1.自由貿易,2.自由貿易制,自由貿易主義,★⇔protected trade(保護貿易)
+free-agent
+自由契約選手
+free-fall
+(パラシュートが開く前の)自然落下
+free-for-all
+1.だれでも自由に参加出来る競技,2.入場自由の,3.収拾のつかない議論,乱闘
+free-lance
+1.(作家,俳優などが)自由契約(寄稿)の,フリーの,フリーランサー,2.自由契約で仕事する,(作家,俳優などが)自由契約(寄稿)の,(動)自由契約で働く
+free-lance diplomat
+フリーの外交官
+free-spender
+金遣いの荒い人,あまり物事を考えずにお金を遣う人
+free-trade zone
+自由港(free port),:略:FTZ
+freebie
+ただでもらえるもの
+freebooter
+略奪者,(特に)海賊
+freedom
+自由,自主,免除,特権
+freedom from
+～からの自由
+freedom of information
+報道の自由,情報公開;略:FOI
+freedom of sex
+フリーセックス
+freedom of～
+(the ～)～の特権,～の出入りの自由
+freehand
+フリーハンドで
+freeload
+ただ乗りする
+freeloader
+《米口》人にたかる人,居候
+freely
+大っぴらに,自由に,オープンに,隠さずに,気前よく
+freemasonry
+Freemason団の主義(制度･慣行),暗黙の友愛的理解,友愛感情
+freestanding
+(彫刻･建築物が)支柱(など)なしで立っている
+freeway
+高速道路,★有料の高速道路はturnpike(ターンパイク);略:FWY
+freewheel
+1.フリーホイル,2.自由奔放にする,フリーホイル
+freewheeling
+自由のきく,言いたい放題の / In Japan university life is freewheeling, consisting largely of drinking parties and sports clubs, but students know it is merely a recuperative break between the examination hell of heir childhood and the rigidly ordered life they must lead as anonymous adult salarymen. -Newsweek(May '95)
+freeze
+～を凍らせる,冷凍する,凍る,凍らせる,凍ったようにピタッと動きを止める,厳寒,締め出す,凍えさえる
+freeze dry
+フリーズ･ドライ
+freeze dryer
+フリーズドライヤ(凍結乾燥機)
+freeze out
+いたたまれなくされる
+freezer
+冷蔵庫
+freezing
+凍る
+freezing point
+氷点
+freezing to death, be
+寒くて死にそう
+freight
+普通貨物運送,運送料,船荷,貨物輸送,普通便,運賃,船賃,空路運送,貨物,運送する
+freighter
+輸送
+freightliner
+《英》大型貨物列車
+frenetic
+逆上した,熱狂的な
+frenum
+小帯
+frenzied
+逆上した,逆上させた
+frenzied rage
+激怒
+frenzy
+激しい興奮,逆上させる,熱狂,狂乱,精神錯乱,逆上 / Elena was now also in the frenzy before orgasm. -Delta of Venus
+frequency
+しばしば起こること,頻繁,頻発,頻度,振動数,周波数,度数,多発
+frequency distribution
+度数分布,頻度分布
+frequency division multiplexer [or multiplexing]
+多重伝送装置;略:FDM
+frequency division multiplexing
+【通信】周波数分割多重伝送方式;略:FDM
+frequency matching
+周波数マッチング
+frequency modulation
+周波数変調方式;略:FM
+frequency shift keying
+【電気電子】周波数変位方式の;略:FSK
+frequency table
+度数分布表
+frequency tolerance
+周波数許容偏差
+frequent
+しばしば起こる,多い,頻繁な,たびたびの,よく訪れる
+frequent flyer
+(航空会社の)上得意,頻繁利用客
+frequentation
+しばしば訪れる(出入りする)こと,頻繁な訪問
+frequentative
+【文法】動詞の反復を表す動詞の相(-le -er など),反復の,反復動詞
+frequently
+しばしば,頻繁に
+frequently asked questions
+?;略:FAQ
+fresco
+フレスコ画法,フレスコ壁画,(壁に)フレスコ画を描く
+fresh
+新鮮な,初期,新しい,さわやかな,はつらつとした,新しく
+fresh as a daisy
+(疲れないで)元気で活動して
+fresh as a rose
+元気はつらつとして,こざっぱりした身なり,(ばらのように)みずみずしく美しい,元気はつらつとして疲れを知らない
+fresh as an eel
+元気はつらつとして
+fresh as dew
+露のように新鮮な
+fresh as flowers in May
+元気はつらつとして
+fresh as paint
+みずみずしい(very fresh and strong),血色のいい(cf. fresh paint 塗り立てのペンキ),元気はつらつとして疲れを知らない,(塗り立てのペンキのように)鮮やかで,みずみずしく,はつらつと
+fresh from ~
+=fresh out of ~,～を出たての,～から取れ立ての
+fresh out of [from] ~, be
+～から取れ立ての,～から来たての / a girl fresh out of school
+fresh water
+淡水,真水
+freshen
+いきいきとする,新鮮にする
+fresher
+新鮮な,新たに
+freshet
+(海に注ぐ淡水の)流れ,川,(大雨･雪解けによる)増水,出水,洪水
+freshly
+新たに,新しく,新鮮に,先達て
+freshman
+(大学などの)新入生,一年生
+freshmen
+freshmanの複数形
+freshwater
+淡水
+fret
+腐食する,雷文,いらだち,じらす
+fret about
+心配する(worry about)
+fretful
+怒りっぽい,いらだつ
+fretwork
+雷文飾り
+friable
+砕けやすい,もろい
+friar
+たくはつ僧,修道院
+fricassee
+《仏語》フリカッセ(こまぎれ肉のシチュー)
+fricative
+【文法】摩擦音,(子音が)摩擦で生ずる
+friction
+摩擦,不和
+friction drive
+摩擦駆動部
+fridge
+冷蔵庫
+fried Chinese noodle
+焼きそば
+fried egg
+卵焼き
+fried food
+【日本】揚げ物
+fried rice
+チャーハン(炒飯)
+friend
+友人,仲間,友達,味方
+friendly
+1.親善試合,2.友好的な,親切な,親しい,好意的な,親善試合,楽しい,友好の,友好的な
+friendly visit
+(良くない話をしにきたのではなく)単に話をしにきたといった感じでしょうか
+friendship
+友情,友好関係
+friendship within or across the sexes.
+同性間または異性間の友情
+frieze
+《建》フリーズ(エンタブラチュアの中央にある小壁),一種の羅紗,帯状彫刻
+frigate
+フリゲート艦
+friggin'
+freakin'; expletive
+fright
+恐怖,驚き,ショック
+frighten
+驚かしてさせる,を驚かす,をぎょっとさせる,怖がらせる,～を驚かして～させる,脅す,驚かす
+frighten the hell [or shit, life, Jesus, living daylights, pea-wodden] out of a person
+人をものすごく恐がらせる
+frightened
+驚ろいた
+frightful
+ぞっとするような,恐ろしい,ものすごい,醜悪な
+frightfully
+恐ろしく
+frigid
+寒さの厳しい,極寒の,冷淡な
+frigid bow
+(a ～)形ばかりのあいさつ
+frigidity
+寒冷,冷淡,よそよそしさ,(女性の)不感症
+frill
+フリルを付ける,フリル
+frilled lizard
+【動物】エリマキトカゲ
+frilly
+ふさ状の
+fringe
+1.ふさ,へり,周辺,外れ,縁どり,2.周辺の,3.縁取る
+fringe benefits
+交通費,福利厚生施設,住宅手当などの,給与以外の諸手当のこと
+fringe-benefit
+付加給与の,福利厚生の
+frisk
+1.はね回る,はね回り,2.《俗語》所持品検査,3.《口》服の上から触って武器を持っていないか確かめる,はね回る,(俗語)所持品検査
+frisked, be
+身体検査をされる
+friskings
+身体検査,ボディーチェック
+frisky
+はね回る,快活な
+frisson
+(興奮･喜びなどによる)身ぶるい,スリル
+frit
+ガラス原料
+frittata
+《伊》フリタータ(オムレツの一種)
+fritter
+1. (時間など)をつぶす,浪費する,2.衣をつけて揚げる,(時間など)をつぶす
+fritter away money on ~
+金を～に無駄に費やす
+frivolity
+軽薄,浅薄,軽々しい言動,くだらないこと
+frivolous
+取るに足らない,不真面目な,軽薄な,軽率な,つまらない,ふまじめな,とるにたらない
+frivolous complaints
+取るに足らない苦情
+frivolously
+軽薄に
+frizz
+ちぢれ
+frizzle
+(毛髪などを)ちぢらせる,ちぢれる(up),油でジュージューいためる[焼く]
+frizzy
+ちぢれた
+fro
+あちらへ
+frock
+フロックを着せる,ドレス,僧服,婦人服
+frog
+【動物】カエル,《俗語》フランス人,蛙
+frogman
+潜水工作隊員
+frolic
+1.浮かれ騒ぎ,陽気,ふざけ戯れること,大浮かれ,歓楽,浮かれ騒ぎの宴会,陽気な集まり,2.陽気に騒ぐ
+frolicsome
+はね回る
+from
+(原料･材料)～から,から
+from A to Z
+何から何まで
+from February 10 to March 9
+二月十日から三月九日まで
+from Hell
+useful suffix to denote a very bad or bogus thing: "My last girlfriend was a Psycho Bitch from Hell, so I latered myself from that scene." "They started playing Elevator Music from Hell, so I cruised to another store."
+from a children
+子供の時から(ずっと)
+from a distance
+遠くから
+from about the middle of September until the middle of November
+九月中旬から十一月の中旬まで
+from afar
+遠くから
+from among ~
+～の中から
+from beginning to end
+最初から最後まで(from start to finish)
+from behind
+の後から
+from birth until death
+生まれてから死ぬまで
+from day to day
+日に日に
+from far and near
+至る所から
+from flower to flower
+花から花へ
+from hand to mouth
+その日暮しで
+from head to foot
+頭のてっぺんからつま先まで,完全に
+from head to foot [feet, heel]
+頭のてっぺんからつま先まで,完全に
+from morning till
+朝から晩まで
+from morning till late at night
+朝から夜遅くまで
+from morning till night
+朝から夜まで
+from morning to evening
+朝から晩まで
+from nine to five
+9時から5時まで,(サラリーマンの)通常勤務時間,The phrase "from nine to five" simply refers to the typical business hours.  It suggests routine and possibly even a boring or routine job.
+from now on
+今後は,以降は
+from pole to pole
+世界中で,世界の至る所で
+from scratch
+最初から,ゼロから
+from start to finish
+最初から最後まで(from beginning to end)
+from the bottom of one's heart
+心の底から
+from the gate
+英国のBillingsgate(ビリングゲイト)の魚市場から
+from the ground up
+何もないところから
+from the outset
+最初から
+from the start
+最初から,はじめから
+from the top on down
+It means the top management is included.
+from the very start
+もともと,初めから
+from then on ~
+そのときからずっと
+from time to time
+ときどき,時々
+from want of ~
+の不足のため
+from which
+どれから
+from within
+内側から
+from without
+外側から
+from ~ down to the present
+今日に至るまで
+from ~ onward
+～以降
+frond
+葉状体
+front
+1.正面,向う,戦線,同盟,【気象】前線,2.(活動･競争などの)分野,領域,正面,隠れみの,面している,隠れ蓑の
+front edge
+先端
+front engine, front drive
+(自動車で)FF方式の(前置エンジン,前輪駆動方式の);略:FF
+front engine, rear drive
+(自動車で)FR(前置エンジン,後輪駆動)方式の;略:FR
+front line
+(the ～)前線
+front page news
+トップ記事
+front panel
+前面パネル
+front road
+家(の表側)に面した道路
+front row
+前列
+front wheel
+前輪
+front-end
+フロントエンド
+front-load
+前倒し
+front-page headlines
+新聞の大見出し
+front-wheel drive
+【自動車】前輪駆動の;略:FWD
+front-wheel drive, fwd
+FF,前輪駆動
+front-wheel fork
+前輪ホーク
+frontage
+正面
+frontage road
+側道(高速道路などと平行させて作った連絡道路)
+frontal
+1.正面の,前面の,2.前頭部の,3.【気象】前線の,4.【解剖】前頭骨,前頭部
+frontal gyrus
+【解剖】前頭回
+frontal headache
+前頭部の頭痛
+frontal lobe
+【解剖】(脳の)前頭葉
+frontal smother-down
+浴びせ倒し
+frontal system
+【気象】前線
+frontier
+フロンティア,国境,辺境地帯,未研究分野,境界,最先端
+frontier hotel
+開拓時代のホテル
+frontispiece
+本の口絵
+frost
+つや消しにする,霜で履う,寒気,厳寒,凍結,冷淡,冷酷,【気象】霜,糖衣をかぶせる,寒さ,霜で覆う,霜で覆われる,凍る
+frostbite
+【気象】凍傷
+frosted-glass
+すりがらす
+frosty
+凍りつくような,酷寒だ,霜が降りた,氷のような,冷ややかな
+froth
+1.泡立たせる,泡を立てる,泡で覆う,2.泡,あぶく
+frothy
+泡の
+frown
+1.しかめ面,眉を寄せること◆不満･怒りを表す,2.しかめっ面をする,眉をひそめる(不満･怒りを表す),威圧感を与える
+frown on ~
+～に対して顔をしかめる,不快感を表す
+frowning rocks
+険しい崖
+frowzy
+(人,服装などが)だらしない,汚らしい
+froyo
+frozen yoghurt(フローズン･ヨーグルト)
+froze
+freezeの過去形
+frozen
+freezeの過去分詞形
+frozen food
+冷凍食品
+frozen to the bone [marrow], be
+体の芯まで冷えて
+fructify
+に実を結ばせる,よく実らす,肥やす
+frugal
+節約する,倹約な,質素な,つましい
+frugality
+倹約
+frugally
+倹約して,節約して,つつましく
+fruit
+1.《俗語》ホモ(の男),2.果物,果実,果物,成果,実を結ぶ
+fruit of the body [loins, womb]
+(the ～)【聖書】子供 (children)
+fruiterer
+果物商人
+fruitful
+たくさん実のなる,実り豊かな,実り多い,多産な
+fruition
+達成,結実,実現,成果:
+fruitless
+無益な
+fruits
+収穫,産物,成果,結果
+fruits and vegitables
+Well, when we speak of fruit as a category of fruit as compared to meat or something like that. then we'd use it in a singular.
+fruity
+フルーツのような
+frustrate
+1.(計画･努力などを)台無しにさせる,失敗させる,挫折させる,2.(人を)失望させる
+frustrated
+1.落胆した,失敗した,2.挫折感[欲求不満]を抱いた
+frustrating
+frustrateの形容詞
+frustration
+欲求不満,フラストレーション
+fry
+油で揚げる,電気椅子で処刑する,稚魚,(集合的)小さいもの(子ども･小動物)
+frying pan
+フライパン
+frypan
+フライパン
+ft.
+foot,フィート
+fubar
+《米俗語》(人物が)箸にも棒にもかからない(第二次対戦中,空軍で使用されたのが最初)< fucked up beyond all recognition
+fuchsia
+1.【植物】フクシア,2.明るい紫紅色
+fuck
+セックスする
+fuck off
+あっちへ行く,やめる,邪魔しないで
+fuck up
+失敗する,駄目にする
+fucking
+《俗語》強調◆=damn
+fuddle
+ごっちゃに積上げる
+fudge
+ごまかす,ごまかし,ファッジ,作りごと,砂糖･牛乳･バターでつくるキャンディーの一種
+fudge the fact
+事実をごまかす
+fuel
+核燃料,燃料,燃料を補給する
+fuel air explosive
+気化爆弾;略:FAE
+fuel cell
+燃料電池
+fuel cycle
+核燃料(再使用)サイクル
+fuel handling machine
+【原子力】燃料交換機;略:FHM
+fuel injection
+(燃焼室への燃料噴射
+fuel oil
+燃料油
+fuel sodium interaction
+【原子力】燃料ナトリウム相互作用;略:FSI
+fuff
+くだらん,決まってるじゃないか(分かりきった話に対して)
+fugitive
+変わりやすい,逃亡者,脱走者,亡命者,放浪者,脱走する,逃亡する,さまよう,はかない,束の間の,逃亡した
+fugly
+fuckin' ugly. Extremely ugly.  非常に醜い(ブスの)
+fugu
+《日》ふぐ
+fulcra
+fulcrumの複数形
+fulcrum
+支点
+fulfil
+果たす,満たす
+fulfill
+約束を履行する,果たす,を実行する,義務を果たす,条件を満たす,を遂行する,満たす
+fulfillment
+充足感,実現,遂行
+full
+いっぱいの,fledged 十分に発達した,徹底した,ふっくらとした,ゆったりとした,もろに
+full as a tick
+《米口語》満腹して
+full as an egg
+1.ぎっしり詰まって(chock-full),2.泥酔して
+full duplex
+全二重(通信方式)
+full employment
+完全雇用
+full fledged school
+本格的な学校,ちゃんとした設備を整えた正式な学校
+full frontal
+1.(正面の)全裸の,2.全裸写真
+full frontal nudith
+オールヌード
+full insurance
+全部保険
+full lot
+株の最低取引単位(round lot),★odd lot(端株)
+full mark
+満点
+full moon
+満月
+full of children
+子供は充分あって
+full of error as an egg is of meat
+間違いだらけで
+full of it [shit]
+嘘ばっかり言っている
+full of meat as an egg
+栄養物･知識に満ちて,中身が充実して,栄養/教訓をいっぱい含んでいる
+full of ~, be
+～でいっぱいの
+full particulars
+詳細
+full services network
+フルサービスネットワーク,CATV,電話,データなどの最先端機能の統合を目指すネットワーク,米国では,すでに本格的な実用実験に入っている;略:FSN
+full three years
+まる三年
+full-blown
+満開の
+full-bodied
+(酒など)こくのある
+full-court press
+(バスケットから)全面的努力
+full-cut
+ブリリアントカットの宝石(のようなもの),オーダーメイド(?)
+full-fledged
+完全な,徹底した,1人前の,(鳥の)羽毛のはえそろった
+full-grown
+十分成長した,完全に成長した,成体の
+full-length
+1.標準の長さの,短縮や省略のない,2.(鏡などが)等身大の
+full-length mirror
+等身大の鏡,姿見
+full-length movie
+ノーカットの映画
+full-length portrait
+等身大の肖像画
+full-line
+完全な品揃えの,全機種の
+full-time
+全時間の,終日,フルタイムの,常勤で
+fullback
+【アメフト】フルバック;略:FB
+fullness
+充満,十分,肥満,(音色などの)豊かさ
+fully
+完全に
+fully-automatic climate control
+【自動車】フルオートエアコン;略:ACC
+fully-fledged
+羽のそろった
+fulminate
+声高に非難する,脅迫,抗議する,爆発音を出す,大音響とともに爆発する,電光のようにひらめく,どなりつける,声高に激しく非難する
+fulminating mercury
+雷こう
+fulmination
+猛烈な非難,怒号,爆発
+fulsome
+(お世辞などが,過度のために)飽き飽きする,鼻につく,度を超した,あくどい,しつこい,お世辞たらたらの
+fumble
+不器用に手で捜す,手探りする,探し回る,いじくり回す,口ごもる
+fume
+1.(煙突などが)(ガス･煙･蒸気などを)発する,いぶす,2.蒸発する,3.苛立つ,怒る,4.煙,蒸気,煙霧,熱気,怒気
+fume hood
+ヒュームフード
+fumigate
+(煙で)いぶす,くすぶらせる,燻蒸消毒する
+fun
+1.面白いこと,楽しみ,戯れ,ふざけ,2.からかう
+fun and games
+楽しいこと,お祭り騒ぎ,ふざけ半分のいたずら,[俗語]セックス,[反語的に/皮肉で]非常に難しい/厄介なこと
+fun city
+ニューヨークの別名
+function
+1.機能,関数,役割,働き,2.機能する,作用する,働く,役目を果たす,3.社交的会合,パーティー,儀式
+function word
+【文法】機能語
+functional
+機能の,関数の,機能する,機能上の,実用的な,機能的な
+functional illiteracy
+機能的文盲(アルファベットは読めるが文章は読めない)
+functional magnetic resonance imaging
+?機能的核磁気共鳴映像法;略:FMRI / 脳の検査に関する記事で出てきた用語
+functional residual capacity [or volume]
+機能(的)残気量;略:FRC
+functionary
+職員,役人
+fund
+資金,たくわえ,財源,宝庫,資金を提供する
+fund of information
+(a ～)豊富な情報
+fund-raising
+資金拠出(の),資金集め(の), 資金調達(の),資金調達(の)
+fundage
+《俗語》資金,所持金
+fundamental
+基礎の,基本,基本の,生来の,基本的な
+fundamental absorption
+基礎吸収
+fundamental human rights
+基本的人権
+fundamental mode
+基本モード
+fundamental orthogonal triad
+基本直交ベクトル系
+fundamental region
+基本域
+fundamental temperature
+基本温度
+fundamental theorem of algebra
+代数学の基本定理
+fundamental unit
+基本単位
+fundamentalism
+根本主義,原理主義
+fundamentalist
+根本主義,原理主義
+fundamentally
+根本的に
+fundamentals
+【経済】基礎的諸条件
+funded indebtedness
+長期負債
+funding
+資金調達
+funds in hands of trustees
+金銭信託
+funds transfer
+送金
+funeral
+葬儀,葬式(の),葬列,告別式
+funeral dirge
+葬送歌
+funereal
+葬式の,しめやかな,悲しい,陰うつな
+fungi
+fungusの複数形
+fungicide
+殺菌剤,防カビ剤
+fungous
+菌の,急に生ずる
+fungus
+(カビ･キノコなどの)菌(類),キノコ,茸,黴,急に発生するもの,菌類
+funk
+怖がる,おじけ
+funnel
+1.集中する,流し込む,送り込む,(精力･資金･情報などを)注ぎ込む,2.漏斗(ｼﾞｮｳｺﾞ),煙突 / The bank of Tokyo was alloted the niche of funneling foreign exchange to Japanese companies.
+funny
+1.おかしな,おかしい,滑稽な,2.おかしな話,面白い話,3.続き漫画
+funny farm
+《俗語》精神病院(psychiatric hospital)
+fur
+毛皮(製品),柔毛,毛皮製品
+fur.
+furlong,ファーロング
+furbish
+研ぐ
+furious
+すさまじい,狂った,激怒した,激しい,荒れ狂う,激怒する,怒り狂った
+furiously
+猛然と,すさまじく,猛烈に
+furl
+投げつける
+furlong
+ハロン(長さの単位=1/8 mi)
+furlough
+(軍人･公務員などの)賜暇,休暇 / On furloughts, he came home to see her, and she did not disappoint him. -Thy Neighbors Wife
+furnace
+厳しい試練,加熱炉,熱しょう室,炉,暖炉,溶鉱炉
+furnace building
+築炉
+furnace crown
+炉天井
+furnish
+備え付ける,を供給する,を提供する,を装備する,家具を備え付ける
+furnish A with ~
+Aに～を備え付ける,Aに～を提供する
+furniture
+必要備品,(集合的に用いて)家具,備品,建具
+furniture polish
+家具磨き
+furor
+熱狂,興奮,大騒ぎ,激情,激怒,激しい怒り(fury),熱狂的賞賛,熱狂的流行
+furrow
+わだち,溝
+furry
+あわただしさ,柔毛質の
+further
+1.さらにずっと,さらに先に,一層遠く,その上,更に,もっと遠い,なお一層の,さらに遠く,もっと先に,いっそうはるかに,さらにまた,さらになお(furthermore),2.進める,助成する,促進する
+further on ~
+先で
+furthermore
+その上,なおその上に,なおそのうえ,=moreover
+furthermost
+最も遠い
+furthest
+最も遠く,最も遠い
+furtive
+ひそかな,こそこそする,内密の,ごまかしの,うさんくさい
+furtively
+ひそかに
+fury
+憤慨,激怒,激しさ,憤激,怒る,激情
+fuse
+ヒューズ,信管,導火線,にヒューズを付ける,溶かす,溶ける,融合･連合する,ヒューズが飛ぶ,ヒューズを飛ばす
+fuselage
+(飛行機の)胴体,機体
+fusillade
+一斉射撃,一斉攻撃
+fusion
+核融合,融解,融合,溶融,合併,連合,統合,総合
+fusion reaction
+核融合反応
+fusion technology
+核融合技術
+fuss
+苦情,大騒ぎ,やきもきする,空騒ぎする,騒がせる
+fuss over
+大騒ぎをする
+fuss-pot
+つまらぬ(ささいな)ことで心配する人
+fussy
+1.気むずかしい,2.凝った,気むずかしい
+fustian
+ファスチアン織,ファスチアン綿布の,大げさな,くだらない
+fusty
+かび臭い
+fut.
+future,未来時制
+futile
+無駄な,無能な,役に立たない
+futilitarian
+無益論の,無益論者
+futility
+無益
+futon
+《日》布団
+future
+1.将来の,未来の,2.未来,将来,将来性,3.【文法】未来時制(の),4.(通例～s)【商業】先物,先物売買[契約],★⇔spot(直物)
+future contract
+先物取引
+future trade
+先物取引
+future trading
+先物取引
+futures market
+(商品･債券などの)先物市場
+futures price
+先物価格,将来引き渡す商品の価格,★⇔spot price(直物価格)
+futurologist
+未来学者
+futurology
+未来学
+fuzz
+1.けば立つ,2.綿毛,けば,3.ファジー理論,4《米俗語》麻薬,5.《米俗語》陰毛
+fuzzball
+毛玉
+fuzzy
+1.羽毛[綿毛]状の,羽毛で覆われた,微毛のある,けばだった,縮れた,2.ぼやけた,ぼけた,3.【数学】ファジーの,ファジー集合[理論]の,4.《米俗語》(競馬の)本命,確実なもの
+fuzzy (loops)
+(マジックテープの)ループ側(輪状になっている方)
+fuzzy control
+ファジー制御,あいまい制御
+fuzzy tail
+《米俗語》警官(fuzz)
+fuzzy theory
+ファジー理論,あいまい理論

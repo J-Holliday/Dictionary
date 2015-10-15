@@ -1,0 +1,106 @@
+!     exclamation mark
+感嘆符
+"     quotation mark
+引用符
+'     apostrophe
+アポストロフィ
+'nuff
+《会話》=enough,★アポストロフィを付けずにnuf, nuffとも
+'nuff said [or ced]
+これ以上何も言うことはないよ,分かったよ;略:N.C.,N.S.
+*-word
+(the ～)(*はアルファベット)*のつくもの
+,     comma
+カンマ
+-     hyphen
+ハイフン
+-ana
+【接辞】～に関する語録,逸話集,小話,逸話 / Americana
+-bashing
+(複合語の第2要素として)基本的には物や人など何にでも付けられる用語,間には必ずハイフンを入れる◆Japan-bashing
+-bound
+(複合語の第2要素として)～に支配された,～に閉ざされた
+-bred
+(複合語の第2要素として)育ちが～の;well-bred(育ちがよい),city-bred(都会育ちの)
+-built
+(複合語の第2要素として)～造りの,体格の～ / stone-built house 石造りの家, well-built man 体格のよい人
+-buster
+(複合語の第2要素として)～をやっつける人 / ghost-buster
+-centered
+(複合語の第2要素として)～中心の,本位の◆client-centered
+-cide
+【接辞】殺す人,殺すもの,殺す行為を表す接尾語
+-conscious
+(複合語の第2要素として)～の意識の強い,～を重視する / You never drink nor smoke.  You are really health-conscious.
+-cule
+【接辞】｢小～｣の意 / animalcule, particle
+-dominated
+(複合語の第2要素として)～が牛耳る[支配する] / Liberal Democratic-dominated coalition government 自民党が牛耳る連立政府
+-drome
+【接辞】｢走路,広い施設｣の意
+-ever
+(複合語の第2要素として)｢これまでで～の｣,｢今迄で～の｣という形容詞を作る / worst-ever これまでで最悪の
+-fold
+(複合語の第2要素として)～倍[重]の[に]
+-free
+(複合語の第2要素として)(通常は好ましくないものが)ない(-lessよりも肯定的な響き drug-free, sugar-free, lead-freeなど)
+-friendly
+(複合語の第2要素として)～にやさしい,環境汚染しない(eco-friendly, user-friendly, planet-friendlyなど)
+-hungry
+(複合語の第2要素として)～に飢えた,～だけが目当ての / The United States has long shipped aging or just-plain-money-hungry batsmen to Japanese teams. Now the trade balance has shifted. -Newsweek '95
+-intensive
+(複合語の第2要素として)～集約型の,第1要素を大量に使うという意味,◆例:labor-intensive, disk-intensive
+-laden
+(複合語の第2要素として)～を積んだ,～を負った / debt-laden 負債を負った
+-logy
+【接辞】～学,論,ことば,談話
+-mode
+useful all-purpose suffix to most nouns: "I'm in cramming mode," "I'm in pig-out mode."
+-much
+(複合語の第2要素として)to expressions such as "Walk much?" "Talk much?" when someone trips or stutters
+-oriented
+(複合語の第2要素として)～志向の,に方向づけられた,優先の / profit-oriented 利益優先の
+-philia
+(複合語の第2要素として)～の病的愛好,～好き,★-phobia(～嫌い)
+-phobia
+(複合語の第2要素として)～恐怖症(の),～忌避症(の),～嫌い,★⇔philia(～の病的愛好,～好き) / school phobia 学校恐怖症
+-powered
+(複合語の第2要素として)～を動力源とする / gasoline-powered
+-prone
+(複合語の第2要素として)～の傾向がある,～しがちの
+-retardant
+(通例複合語として>(効果などを)遅らせる,★fire-retardant(難然性の)
+-spirited
+(複合語の第2要素として)～の性格の,気分が～の,★high-spirited, low-spirited, mean-spirited
+-stricken
+(複合語の第2要素として)～に苦しむ,～に襲われた / poverty-stricken 貧困に苦しむ, depression-stricken 不況に苦しむ
+-tuple
+【接辞】｢～個の要素から成る｣を表す / a 2-tuple, quintuple, sextuple
+-type
+(複合語の第2要素として)～タイプ[型]の,★使いたくなるが,実際にはほとんど見かけない
+-ville
+(複合語の第2要素として)1.《米俗語》同じ型のもの[人]がそろっている状態 / cyber-ville コンピュータだらけ, study-ville 勉強家ばかり
+-ware
+(複合語の第2要素として)(特定の種類の)商品,製品を表す,★glassware(ガラス製品),silverware(銀製品) / コンピュータの通信の世界でよく使われるfreeware(フリーウェア)やshareware(シェアウェア)は,ここから来たものと思われる
+-wise
+(複合語の第2要素として)のように,～の方向に,～の点で,～の件に関しては,★clockwise
+-woman
+(複合語の第2要素として)"女性の～"という接尾語,businesswomanとbusinessmanというように-manに対比して使われる
+.      period
+ピリオド
+...     ellipsis
+省略記号
+:     colon
+コロン
+;     semicolon
+セミコロン
+<     less than
+～未満,～より小,A<Bで,AはBより小さい
+=     equal sign
+等符号
+?      question mark
+疑問符
+[]     (square) brackets
+(角)括弧
+_     underscore
+下線,下線を引く(underline)
